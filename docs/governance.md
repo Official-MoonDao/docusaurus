@@ -1,6 +1,6 @@
 ---
 id: governance
-title: MoonDAO Goveranance
+title: MoonDAO Governance
 description: Learn more about the $MOONEY token, and how you can help fund the decentralization of space travel.
 keywords:
   [
@@ -20,7 +20,7 @@ sidebar_position: 5
 
 ## High-level Overview
 MoonDAO is composed of three governing bodies:
-1. **The MoonDAO Senate.** This is a group of contributors that review incoming Proposals and do a due-dilligence before it goes up for vote for the rest of the DAO.
+1. **The MoonDAO Senate.** This is a group of contributors that review incoming Proposals and perform due-dilligence before it goes up for vote for the rest of the DAO.
 2. **Member House.** This house is composed of all the DAO members. We use off-chain voting on [Snapshot](https://snapshot.org/#/tomoondao.eth).
 3. **Executive Branch.** If approved by the DAO, our on-chain smart contract signers execute the proposal from our [Gnosis Treasury](https://gnosis-safe.io/app/eth:0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9/balances).
 

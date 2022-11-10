@@ -19,11 +19,11 @@ sidebar_label: How To Join
 sidebar_position: 3
 ---
 
-The best way to get involved would be to attend our Townhall meetings at **8am PST every Monday** on our [Twitter](https://twitter.com/OfficialMoonDAO) and introduce yourself. Our town halls are on Twitter Spaces and they’re open to anyone.
+The best way to get involved would be to attend our Town Hall meetings at **8am PST every Monday** on our [Twitter](https://twitter.com/OfficialMoonDAO) and introduce yourself. Our town halls are on Twitter Spaces and they’re open to anyone.
 
 If you're new to DAOs, [sign up for our email newsletter](https://www.moondao.com/explore). This will walk you through how to join MoonDAO step-by-step, providing you with all the tools you need to contribute!
 
-If you just can't wait, and you're familiiar with DAO tools already, you'll simply need to complete the following four steps. They can be done in under five minutes by following the links provided:
+If you just can't wait, and you're familiar with DAO tools already, you'll simply need to complete the following four steps. They can be done in under five minutes by following the links provided:
 
 ## Join now
 1. Jump in our [Discord](https://discord.gg/RpDEtQHcPw)

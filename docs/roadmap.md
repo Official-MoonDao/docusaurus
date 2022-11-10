@@ -20,11 +20,11 @@ keywords:
 sidebar_position: 2
 ---
 
-MoonDAO is currently in Phase 3 of its roadmap. Let's walk through MoonDAO's history, and get an idea of its tragectory.
+MoonDAO is currently in Phase 3 of its roadmap. Let's walk through MoonDAO's history, and get an idea of its trajectory.
 
 ## 🌒 Moon Phase 1: Deploy Decentralized Governance of MoonDAO.
 
-This phase was focused on going from zero to one and create the MoonDAO community (mission, values, vision) and crowdraise for our first mission of sending a member to space. We did so by deploying the $MOONEY token for decentralized governance of MoonDAO. The primary goal is to decentralize the governance of MoonDAO from the onset, and add the structure necessary to create an uncorruptable on-chain governance system. **There is no expectation of profit with this token, this token’s purpose is to coordinate our governance.**
+This phase was focused on going from zero to one and create the MoonDAO community (mission, values, vision) and crowdraising for our first mission of sending a member to space. We did so by deploying the $MOONEY token for decentralized governance of MoonDAO. The primary goal is to decentralize the governance of MoonDAO from the onset, and add the structure necessary to create an incorruptable on-chain governance system. **There is no expectation of profit with this token, this token’s purpose is to coordinate our governance.**
 
 It is very important to note that **the core team has not pre-mined any tokens for ourselves.** We have not given “special terms” to any Venture Capitalists, Influencers, Angel Investors, Rich Friends or Family, or any other person. We are all being treated equally.
 
@@ -34,7 +34,7 @@ With MoonDAO's token raise on [Juicebox](https://juicebox.money/#/p/moondao), Mo
 
 ## 🌓 Moon Phase 2: Send a MoonDAO member to space in 2022.
 
-This was our first big statement: to make accessible to anyone in the world.
+This was our first big statement: to make it accessible to anyone in the world.
 
 MoonDAO purchased two tickets from Blue Origin and decided that it would select each astronaut using a different method:
 
@@ -60,7 +60,7 @@ Over time, we aim to build a coalition of engineers, story tellers, legal expert
 
 That's one small step for a DAO, one giant leap for DAO-kind.
 
-The 1967 Space Treaty forms the basis for all law concerning space. In this treaty it states that no national appropriation of the Moon can take place. However, a DAO is not a nation — it is an international collective of frens.
+The 1967 Space Treaty forms the basis for all laws concerning space. In this treaty it states that no national appropriation of the Moon can take place. However, a DAO is not a nation — it is an international collective of frens.
 
 We have the opportunity to use these new governance and coordination tools in order to form a more perfect union as we extend the rights and liberties of every human on earth into the solar system.
 

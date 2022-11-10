@@ -1,6 +1,6 @@
 ---
 id: guild-guidelines
-title: MoonDAO Project Guidelines
+title: MoonDAO Guild Guidelines
 description: Learn more about how MoonDAO Guilds work
 keywords: [Proposal, Guilds, MoonDAO, Space Travel]
 sidebar_label: MoonDAO Guilds
@@ -59,9 +59,9 @@ DAO Discord vote by the senate members.
 
 An announcement will be made by the sponsor on the Discord with the document to a special channel where only senate members can react with a Yes or No. A 70% majority in the Senate is required for the proposal to go forward to vote from the MoonDAO Member House, with a quorum of 80% required. Senate votes are one vote per member.
 
-### 6. Present at Townhall. 
+### 6. Present at Town hall. 
 
-If the proposal passes the requirement from Step #7. The guild steward will talk about the proposal at the weekly townhall and pitch the proposal to the DAO and take questions from people in the DAO 
+If the proposal passes the requirement from Step #7. The guild steward will talk about the proposal at the weekly town hall and pitch the proposal to the DAO and take questions from people in the DAO 
 
 At this point the proposal is also translated into other languages and communicated to the rest of the DAO.
 
@@ -100,7 +100,7 @@ Everyone can apply to be a guild member as long as they have knowledge and exper
 
 Guild members are expected to join and contribute to the guild related activities such as on-boarding new members, helping guild steward training new members.
 
-Guild members have the right to get involved in bounties and projects. Once they take a bounty, they are responsible to complete the bounty ontime and ensure the quality of their works.
+Guild members have the right to get involved in bounties and projects. Once they take a bounty, they are responsible to complete the bounty on time and ensure the quality of their works.
 
 Failure to deliver taken bounties may result in a ban from applying next bounties or even removal from the guild. 
 
