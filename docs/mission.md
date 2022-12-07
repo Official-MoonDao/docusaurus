@@ -17,9 +17,9 @@ MoonDAO’s mission is to create a self-sustaining, self-governing settlement on
 
 ## Why the Moon?
 
-> “All civilizations become either spacefaring or extinct.” -- Carl Sagan
+> “All civilizations become either spacefaring or extinct.” - Carl Sagan
 
-If we zoom out on the timeline of humanity, voyaging into the unknown of Space is historic -- we are incredibly lucky to be alive in this era. Space calls upon us to explore, and the Moon is the first step. Once you reach the “eighth continent” every other destination in the solar system is just a function of propellant and time. A base on the moon is a gateway to the rest of the cosmos.
+If we zoom out on the timeline of humanity, voyaging into the unknown of Space and settling it long-term represents the biggest inflection point of our civilization to date - we are incredibly lucky to be alive in this era. Space calls upon us to explore, and the Moon is the first step. Once you reach the “eighth continent” every other destination in the solar system is just a function of propellant and time. A base on the moon is a gateway to the rest of the cosmos.
 
 ## Why a DAO?
 
