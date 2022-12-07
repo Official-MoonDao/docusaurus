@@ -23,7 +23,7 @@ If we zoom out on the timeline of humanity, voyaging into the unknown of Space a
 
 ## Why a DAO?
 
-Space is currently not for everyone. If you don’t live in a nation with a space program or space industry, you’re out of luck. If you’d like to own a piece of a private space company in the US, you’ll need to be an accredited investor (net worth of over $1 million). DAOs offer the ability for anyone, anywhere, to contribute and be part of a shared mission regardless of their nationality, or how rich they are. We think DAOs will scale to sizes larger than any corporation can on Earth, and be able to serve the interests of all humans on Earth -- no matter their background. We are literally going to the Moon, and propagating our values into space.
+Space is currently not for everyone. If you don’t live in a nation with a space program or space industry, you’re out of luck. If you’d like to own a piece of a private space company in the US, you’ll need to be an accredited investor (net worth of over $1 million). DAOs offer the ability for anyone, anywhere, to contribute and be part of a shared mission regardless of their nationality, or how rich they are. We think DAOs will scale to sizes larger than any corporation can on Earth, and be able to serve the interests of all humans on Earth - no matter their background. We are literally going to the Moon, and propagating our values into space.
 
 ## The Vision
 The frontier of space represents the greatest opportunity to redefine our civilization. As we step forwards into the unknown, we find ourselves at a crossroads for our future.
