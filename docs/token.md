@@ -20,7 +20,7 @@ sidebar_position: 5
 
 ## **There is no expectation of profit with the MOONEY or vMOONEY token.**
 
-**MOONEY and vMONEY are governance tokens, they do not represent fractionalized ownership. Governance includes the ability to guide the DAO’s mission, values, and operations of MoonDAO, as well as the allocation of resources to projects that the DAO supports. Governance tokens have no expectation of profit. Any contributions to MoonDAO are not tax deductible at this point in time.**
+**MOONEY and vMOONEY are governance tokens, they do not represent fractionalized ownership. Governance includes the ability to guide the DAO’s mission, values, and operations of MoonDAO, as well as the allocation of resources to projects that the DAO supports. Governance tokens have no expectation of profit. Any contributions to MoonDAO are not tax deductible at this point in time.**
 
 When you make a contribution to MoonDAO, or otherwise purchase or acquire any MOONEY tokens, whether directly from the Community, via an exchange, or otherwise, you represent, warrant and agree as follows:
 
