@@ -17,6 +17,11 @@ const config = {
   projectName: "documentation", // Usually your repo name.
   trailingSlash: true,
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'zh'],
+  },
+
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -49,6 +54,10 @@ const config = {
         },
         items: [
           {
+            type: 'localeDropdown',
+            position: 'left',
+          },
+          {
             href: "https://www.moondao.com/",
             label: "Homepage",
             position: "right",
@@ -59,7 +68,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://discord.gg/rvrqvUWPDy",
+            href: "https://discord.gg/D6ntqGZShA",
             label: "Join Discord",
             position: "right",
           },

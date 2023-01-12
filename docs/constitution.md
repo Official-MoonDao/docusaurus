@@ -158,7 +158,7 @@ All MoonDAO proposals must go through the following process.
 
 #### 2.4.1 Creation
 
-Any MoonDAO member can suggest a proposal and discuss them on the MoonDAO [governance forum](http://forum.moondao.com). The Proposal must follow the templates provided by the DAO, if the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote.
+Any MoonDAO member can suggest a proposal and discuss them on the MoonDAO governance forum. The Proposal must follow the templates provided by the DAO, if the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote.
 
 #### 2.4.2 Feedback from DAO members
 
