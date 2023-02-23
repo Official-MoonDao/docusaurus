@@ -70,4 +70,6 @@ vMOONEY (voting MOONEY) tokens are used to vote on MoonDAO proposals.
 
 To receive vMOONEY you must [stake your MOONEY tokens here](https://app.moondao.com). You will receive $vMOONEY tokens linearly proportional to the amount of time that you stake.
 
+Watch the [Stake to Vote Guide](https://www.youtube.com/watch?v=suKBRdo2T6I) to learn how to stake your MOONEY.
+
 To prevent sybil attacks, you may only have one wallet registered to vote on MoonDAO proposals. Your voting power is calculated as the square root of the total tokens you have in your registered wallet.
