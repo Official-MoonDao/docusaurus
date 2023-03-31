@@ -1,11 +1,11 @@
-﻿---
-id: tts-dispute-notice
+---
+id: ttzg-dispute-notice
 title: Dispute Notice
-description: Dispute Notice regarding Ticket to Space NFT Sweepstakes
-keywords: [NFT, Ticket-to-Space, MoonDAO, Space Travel]
+description: Dispute Notice regarding Ticket to Zero-G NFT Sweepstakes
+keywords: [NFT, Ticket-to-Zero-G, MoonDAO, Zero Gravity]
 sidebar_label: Dispute Notice
 sidebar_position: 5
-slug: /tts-dispute-notice
+slug: /ttzg-dispute-notice
 ---
 
 **MoonDAO™ Initial Dispute Notice**
@@ -54,7 +54,7 @@ Desired Outcome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ` `\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Email Notice to: LuckDAO Limited d/b/a MoonDAO
+Email Notice to: MoonDAO Limited d/b/a MoonDAO
 
 info@moondao.com
 
