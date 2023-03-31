@@ -1,11 +1,11 @@
 ﻿---
-id: ticket-to-space-sweepstakes-rules
+id: tts-sweepstakes-rules
 title: Ticket to Space Sweepstakes Rules
 description: Official rules regarding the Ticket to Space Sweepstakes
 keywords: [NFT, Ticket-to-Space, MoonDAO, Space Travel]
 sidebar_label: Sweepstakes Rules
 sidebar_position: 2
-slug: /sweepstakes-rules
+slug: /tts-sweepstakes-rules
 ---
 
 ## **MoonDAO™ Ticket to Space Sweepstakes Rules**
