@@ -3,7 +3,7 @@ id: ttzg-NFT-FAQs
 title: Ticket to Zero-G NFT FAQs
 description: FAQs regarding MoonDAO's Ticket to Space NFT
 keywords: [NFT, Ticket-to-Space, MoonDAO, Zero Gravity]
-sidebar_label: Ticket to Space NFT FAQs
+sidebar_label: NFT FAQs
 sidebar_position: 1
 slug: /ttzg-nft-faqs
 ---
