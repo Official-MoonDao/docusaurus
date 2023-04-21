@@ -7,327 +7,418 @@ sidebar_label: MoonDAO Projects
 sidebar_position: 6
 ---
 
-# MoonDAO Projects
+# MoonDAO Projects 4.0
+
+**MoonDAO Projects are the launch point for mission-aligned people to build on top of the foundation and network of MoonDAO.**
+
+MoonDAO Projects are goal-oriented teams working on mission-aligned objectives. This document provides the framework to fund the team, support their progress, align their interests with the DAO, and provide retroactive incentives for projects that get us one step closer to a permanent settlement on the Moon.
+
+MoonDAO Projects are composed of Rocketeers that lead a team of MoonDAO members referred to as Moonsettlers. Along with work on their core objective, Rocketeers have a responsibility to co-govern MoonDAO in the Senate. Projects are supported by Delegates who have a responsibility to help the project follow best practices and ensure they meet all the requirements outlined in this document.
+
+- [MoonDAO Projects 4.0](#moondao-projects-40)
+    - [Project Proposal Process](#project-proposal-process)
+    - [Project Start](#project-start)
+    - [Project Updates And Responsibilities](#project-updates-and-responsibilities)
+    - [Project Completion](#project-completion)
+    - [Retroactive Rewards](#retroactive-rewards)
+    - [Project Revenue Distribution](#project-revenue-distribution)
+    - [Project Intellectual Property](#project-intellectual-property)
+    - [Dispute Resolution](#dispute-resolution)
+    - [Miscellaneous FAQs:](#miscellaneous-faqs)
+- [MoonDAO Project Proposal Template](#moondao-project-proposal-template)
+    - [Objectives and Key Results](#objectives-and-key-results)
+    - [Team Table (Table A)](#team-table-table-a)
+    - [Estimated Project Timeline (Table B)](#estimated-project-timeline-table-b)
+    - [Budget Justifications (Table C)](#budget-justifications-table-c)
+    - [Transactions to be Executed (Table D)](#transactions-to-be-executed-table-d)
+    - [Revenue Distribution Agreement](#revenue-distribution-agreement)
+    - [In-Depth Approval Senate Signature](#in-depth-approval-senate-signature)
+    - [Project Approval Checklist](#project-approval-checklist)
+- [Project Final Report Template](#project-final-report-template)
+    - [Summary](#summary)
+    - [Results](#results)
+    - [Team Member Contributions](#team-member-contributions)
+    - [Coordinape Results](#coordinape-results)
+    - [Treasury Transparency](#treasury-transparency)
+    - [Project Wrap Up Checklist](#project-wrap-up-checklist)
+
+### Project Proposal Process
 
-MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the mission is completed the team is disbanded to work on other projects.
+- **Step 1:** ***Post in the “project-ideation” channel on Discord.*** You don’t need to have a fully formed idea for a project yet, and you can be pretty informal at this stage. There are two things to articulate in the ideation channel: 
+    1. Problem to be solved.
+    2. Proposed solution.
+This is meant to help YOU get feedback from people on the idea, offer alternative solutions, and allow for informal coordination around ideas. Anyone can post about ideas regardless of their background in the DAO, even if they aren’t yet part of our community.
 
-This document includes rules and guidelines for how projects are intended to work in a transparent and auditable way, how compensation will work for those teams, and how the community can voice their comments or concerns with the project team.
+- **Step 2:** ***Find a Delegate to support the proposal.*** If you don’t have 250,000 vMOONEY, you will need at least one person that has a Delegate role at MoonDAO to support the idea. This person is responsible for ensuring that the project meets all the requirements and follows the rules set forward for projects.
 
-### How is a MoonDAO project created?
+    MoonDAO takes transparency, integrity, trust, and responsibility very seriously. Delegates may not receive Payment or Rewards directly from the project, since they are intended to act as neutral arbiters.  If the project does not follow MoonDAO’s rules and the Delegate does not make the DAO aware of the project breaking MoonDAO’s rules, the Delegate will be penalized from being allowed to bring more projects forward for a year. If the project succeeds in its objective, the Delegate will be rewarded with 2% of the project’s Coordinape project rewards (see Retroactive Rewards section for more information). Delegates are responsible for:
+        1. Creating the project multisig, and being part of the multisig.
+        2. Ensuring the payment methods for the project are created.
+        3. Compiling a monthly report on the progress of the project for the DAO.
+        4. Helping submit the final report for the project.
+        5. Setting up and maintaining the project’s DeWork and Coordinape.
+        6. Creating the project’s folder on Google Drive.
+        7. Cleanup of the project after it has finished.
 
-#### The procedure goes as follows:
+- **Step 3:** ***Proposal Submission.*** A project template (below) must be filled out with the help of the Delegate to workshop the project and make sure it fits all the requirements. Once the project meets all the requirements to be put up, then the Delegate will submit the proposal on Discord under “Proposal Submit.” The proposal must be posted 48 hours before the Senate meeting. This will allow Senate members to review your proposal and provide an in-depth review of the project prior to the Senate meeting. Project approval permissions vary as follows:
+  1. If the prospective Rocketeers have already successfully completed a project before, and the proposal does not require up-front funding from MoonDAO, and it doesn’t require crowdfunding from the community, the Senate does not need to vote on the proposal and it may proceed permissionlessly, as long as the proposal was submitted, presented to the Senate for awareness, and verified as legitimate by an Astronaut.
+  2. If the proposal does not require up-front funding from MoonDAO, but it does require crowdfunding from the community, the Senate will do a due-diligence on the specifications, objective, and team for the Project, and will vote on approving the project as outlined in our Constitution, but it does not need to go through a DAO-wide vote.
+  3. If the proposal requires up-front funding from MoonDAO it must go through DAO Governance as outlined in the Constitution. Multisig and Project Revenue split contracts should be created before snapshot voting.
+  The Proposal must follow the template provided hereunder, if the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote.
 
-1. **Build a team.** Anyone in our DAO with the role of Moonsettler or above for at least a month can steward a project (in other words, proof of work is required before someone launches their own project, otherwise there is special approval needed to make an exception -- at the discretion of the Astronauts). Whoever is starting a project can either start a project on their own, or recruit people from our various guilds and put together a team. There can be a maximum of two stewards on any given project. Project stewards are expected to have MoonDAO be a primary commitment in their life. They are expected to act as a point of contact for the project and be active and responsive to make sure things move along and goals are achieved. Each person on the initial team of the project will become a Moonsettler, and they must have an OKR specified inside of the proposal. As a general rule, try to keep teams small (2-5 people) to begin.
-2. **Find a sponsor.** A Sponsor is found from our DAO, either an Astronaut or Rocketeer. Sponsors are responsible for making sure the proposal meets all the requirements needed for a project to be properly put together. The sponsor could pull their support at any point in the process if they do not think the project is meeting the requirements. This pull of support will be recorded on the project with their reasoning, but the project can always find another sponsor if it wishes to continue. The Sponsor cannot be the same person as the steward. If a sponsor adds a project that does not meet the requirements of the project proposal (invalid proposal) they will receive a warning, if it happens twice the sponsor is penalized and not able to add more projects for 30 days.
-3. **Fill out a project template.** A google doc template is filled out (below) and with the help of the Sponsor to workshop the project and make sure it fits all the requirements. Once the project meets all the requirements to be put up, then the sponsor will put it up under a special channel in the Discord that only the Astronauts or Rocketeers (sponsors) can post in.
-4. **Present project to DAO leadership.** On a weekly basis the Rocketeers and Astronauts go on a call to evaluate the project and talk about it together. The people who put up the proposal need to be on that call to discuss the project and explain the proposal for people to get feedback. Rocketeers and Astronauts must attend this meeting every week. Absence of a Rocketeer or Astronaut without notice will result in a warning, and two absences without notice can result in removal from the role.
-5. **Get feedback from DAO leadership.** The proposal must have an in-depth review from at least three Astronauts or Rocketeers, with feedback based on several axes (score 1-10 + an explanatory paragraph). The total numbers are provided to the DAO, front and center with summary statistics on each axis. Scorecard for reference
+For proposals going through the Senate, the proposal requires three in-depth reviewers from Senate Members. Once they feel like the proposal is ready to go, they must sign off at the bottom of the proposal as having done their due diligence and had their concerns (if any) met. Reviewers shall not be a part of the project team. If the project succeeds in its objective by submitting an approved final report to the DAO, each signer will receive 1% of the project’s Coordinape rewards. If multiple people provide feedback, the project Rocketers will choose the top 3 people that gave them the most in-depth feedback.
 
-- Does the project fit with the mission of MoonDAO?
-- Does the project fit with the values of MoonDAO?
-- Does the project improve MoonDAO in some significant way?
-- Is the project OKR following SMART guidelines (specific, measurable, achievable, relevant, and time-bound)? Is it ambitious, complex, and difficult enough to merit being a project?
-- Is the budget for this project justified (properly documented quotes, not excessive for the work that needs to be done)?
-- Does the person stewarding the project have a track record of accountability, honesty, and quality work at the DAO?
-- Do you feel confident that the initial team has the capacity to achieve what they are setting out to achieve? Is the team the right fit for the project? Are each of the moonsettler OKRs significant enough to merit a spot on the team?
-- Does the project conflict with any other existing project? (Redundant work, overlaps with another similar project)
-- Could this project generate positive revenue to the DAO and help us become sustainable?
-- (If it’s a budget increase proposal) Is the project on track to meet its OKRs successfully?
-- (If it’s a budget increase proposal) Is the team effective and efficiently using DAO resources?
-- (If it’s a budget increase proposal) Is the request for an increased budget reasonable?
+### Project Start
+The Project’s Rocketeer(s) becomes a member of the Senate as outlined in our DAO Constitution. Members of the Senate retain their position until the end of the quarter when their objective was completed. Senate members are required to attend weekly Senate meetings and required to vote and review incoming proposals. Project Rocketeers must ensure the following is completed BEFORE receiving their budget:
 
-6. **Iterate on proposal.** Projects can change their proposal based on feedback from the reviews. If the proposal is changed, they should notify the reviewers and they can update their scores based on the feedback. Proposals may be workshopped in this way with weekly reviews until the proposal feels good enough to move on to the next phase of review (at this point it is static and cannot change). The scores are for reference for voters, a low score does not necessarily mean it will not go up for vote.
-7. **DAO Discord vote by the broader team.** After collecting final scores from people, the project team and sponsor can make a decision about whether they want to forward to the next phase of the review and get feedback from the broader DAO. An announcement will be made by the sponsor on the Discord with the document to a special channel where only Moonsettlers, Rocketeers, and Astronauts can react with a Yes or No. The scores from Rocketeers and Astronauts will be attached to this channel for people to review. The sponsor will also make a separate channel to only discuss that proposal. The proposal is active for a maximum of 7 days for it to reach a quorum of at least 75% of Moonsettlers, Rocketeers, or Astronauts, AND a ratio of at least 80% approval. If the thresholds are not reached then it does not go up for snapshot vote.
-8. **Present at Town Hall.** If the project passes the requirement from Step #7. The project steward will talk about the project at the weekly townhall and pitch the project to the DAO and take questions from people in the DAO about the project (no more than 5-10 minutes per project), they may also recruit from open roles from people that might be interested in joining. At this point the proposal is also translated into other languages and communicated to the rest of the DAO.
-9. **Vote on Snapshot.** After the proposal is pitched, it’s included in that batch’s weekly snapshot for approval by the DAO and the DAO can vote on the snapshot for it to be passed with 80% approval.
-10. **Update roles and information in MoonDAO.** Once passed, the project steward becomes a Rocketeer in the DAO, and the initial team will be Moonsettlers. The project steward then do the following:
+1. **Multisig creation and administration.** If the project requires more than one payment the Delegate must create a Gnosis multisig with at least a three out of five execution threshold to receive the funds. Rocketeers must keep a record of multisig transactions and ensure that the final report includes a justification for payments (who was paid, how much, and key deliverables from the payment).
+2. **Payment method MVP streaming.** If a project member is receiving a fixed payment upfront for their work, the project multisig may stream the payment over the course of the project until the project’s deadline. Payment streaming may be turned off by the team’s multisig if a member is no longer fulfilling their responsibilities. Alternatively, the project may send the payment in full at the end of the project.
+3. **Project management.** Delegates are responsible for setting up the MoonDAO tools for their teams. MoonDAO uses DeWork as a Kanban board for task management, Google Drive for document management, and Discord for DAO communication. Delegates must do the following:
+    1. [Make a Google Drive folder](https://drive.google.com/drive/u/0/folders/0ALhEF4XlxUfXUk9PVA) for their project within the MoonDAO Organization. Put your original proposal document in that folder as a PDF.
+    b. [Create a DeWork space](https://app.dework.xyz/moondao) for their project and assign each task to the members of the team. If a task is open, create an open bounty for the task. MoonDAO Guild members can either be assigned to open tasks as Moonsettlers, or the Rocketeer can make it an open competition and receive multiple entries and decide on the winner. Rocketeers can decide the amount to give for the open task (in MOONEY or DAI), and even allow them to be on the project’s Coordinape.
+    2. [Create a Discord channel under “Active Projects”](https://discord.com/channels/914720248140279868/947192795586781205) to coordinate the project’s communication and work transparently inside of the DAO. Transparent communication is essential at MoonDAO to help people coordinate effectively and prevent misunderstandings, please keep your project’s non-sensitive communication on Discord as much as possible.
+    3. [Create a Coordinape](https://docs.coordinape.com/get-started/circles/creating-a-circle) for the project for people to begin noting their contributions.
+    4. Create a weekly meeting on the MoonDAO calendar for your project for giving updates and coordinating needs for the project. (To create a meeting simply type “/create” in our Discord and you can add the details for your calendar event. You may further edit it in the web UI after the event is created to make it repeat etc.)
+4. **Juicebox Creation (optional).** The project may create a Juicebox project to raise more money for their idea. The project must be configured with a 10% reserve of ETH funds raised going to the main MoonDAO Treasury. NFTs may be granted for contributions that have voting rights for the project’s progress, but no ERC-20s.
 
-- They must post the Project proposal in the active projects channel so new members of the DAO can see the work that is being done.
-- The steward must create a multisig to collect the funds (they will be reimbursed for the cost of the multisig creation), and the funds for the project will be sent to their generated multisig.
-- A new channel is created by the project steward so their team can start working transparently inside of the DAO. Work must be primarily completed in that channel. Not elsewhere.
 
-11. **Progress updates.** Every month of progress on the project, it will be reviewed by the Astronauts and Rocketeers in the weekly meeting, and they will assess the progress of the project. If the project is not meeting the expectations of the DAO, then a recommendation can be made to the DAO on a snapshot vote to end a project with their attached reasoning.
-12. **Extensions.** If a budget needs to be increased it must go through the same steps 3-10 with a justification for budget extension.
-13. **Project ends.** Once the project is completed the excess funds are returned to the DAO multisig, a final report is created to the DAO with the use of all funds and other relevant information about the project. The project steward must create a Coordinape within one week of the project ending. Tokens from that coordinape will be released at the end of the quarter (see below for more details on how this is done).
 
-### Moonsettler expectations
+### Project Updates And Responsibilities
 
-Moonsettlers must always have an OKR that they’re working towards within the project. They may join more than one project if they meet the requirements for multiple projects.
+Throughout the lifetime of the Project the **Rocketeer** must do the following:
 
-The sponsor, at any time and at their sole discretion, can remove a moonsettler from their project if they are not meeting the expectations required of them inside of the project. If they are removed they are still eligible to get the Coordinape bonus for the work they’ve completed so far inside of the project.
 
-If a Moonsettler completes their OKR and does not have a new objective, it is their responsibility to go to the Project steward and find work that they can complete to help the project. If there is no work that can be completed, they must either join another project to continue their Moonsettler role, create a project and become a rocketeer, or forgo their Moonsettler role. No Moonsettler can continue with their role without having something they are actively working on. Again, if they are no longer needed, they will still get paid on the project for the work that they completed to date.
+1. **Provide Monthly Progress Updates to the Senate.** Every month of progress on the project the team must provide a written report and present it at the Senate meeting. It will be reviewed by the Senate, and they will assess the progress of the project. This is intended to be a helpful meeting to give context to the DAO on progress and also have the DAO find ways to support the project. However, if the project is not meeting the expectations of their project or no progress has been made, then the Senate may vote on shutting the project down. If a project is shut down, all remaining funds must be returned to the DAO.
+2. **Attend weekly Senate meetings.** Senate members must attend the weekly leadership meeting and are required to vote on Senate decisions as outlined in the DAO Constitution. They are encouraged to help review incoming project proposals and share their thoughts on matters of DAO governance. Failure to attend meetings without notice or not vote in a timely manner will result in penalties to retroactive compensation. For each missed Senate vote, defined as no vote within 24 hours of the proposal being active, the team will be deducted 5% of their retroactive rewards. If a Senate member misses more than three votes, the project may be shut down. Special exceptions can be made for members on different time zones where attendance is infeasible.
 
-Moonsettlers should create a weekly update in their project channel with the work that they’ve done that week and their priorities for the upcoming week.
+Other members of the project with assigned tasks become **Moonsettlers.** These members must:
 
-At the end of a project, Moonsettlers will receive a Coordinape bonus for the project that they’ve completed. Moonsettlers are encouraged to record the work that they do to present at the end of the pay period. It is recommended to post weekly updates of the work you’ve done to keep a record for the DAO.
+1. **Provide weekly written updates on progress.** Post updates on work in the “Weekly Updates” channel above active projects.
+2. **Keep a record of contributions.** It is highly recommended to keep a record of the work completed, this can be done within the weekly updates and will be helpful when filling out the Final Report and Coordinape at the end of the project.
+3. **Update their task progress on DeWork.** Ensure that your task is being tracked on DeWork and the progress of the task is updated.
 
-Moonsettlers that complete their duties with the DAO in good standing will be changed to a Voyager role and can continue to help in their own capacity outside of the Moonsettler expectations.
+### Project Completion
+The Project Delegate and Rocketeer must make sure the following are complete:
 
-### Rocketeer Expectations
 
-A rocketeer is equivalent to a project steward.
+1. **Complete a Final Report (attached below).** Each project member must include their contributions in the final report. Reports must be submitted to the DAO in the “Final Report” channel on Discord before the end of the quarter to be included in that quarter’s reward cycle. These reports will be attached on Snapshot for final voting by the DAO.
+2. **Return excess funds to the DAO treasury.** Please attach a link to the DAO’s multisig in the final report along with a table including the justification for expenses.
+3. **Coordinape for rewards distribution.** Every project member receives 100 GIVE and must distribute their full amount, except smaller teams of four or fewer if there is an agreement on distribution amounts with all members agreeing on the distribution in writing. Project Rocketeers may also add anyone else in the Coordinape that they thought provided help to them but were not officially part of the team on the proposal, however, those added members do not receive any GIVE. Each person on the Coordinape must include their list of contributions in the final report. Please include a link to this completed Coordinape in the Final Report.
+4. **Update roles.** Update Moonsettler and Rocketeer roles to Voyager roles (distinguished members of MoonDAO who have successfully completed a project).
+5. **Create Documentation.** If someone needs to maintain the work after it’s completed, or users need to know where things are, please include documentation for the people who come after you.
 
-Project stewards must provide weekly updates to the DAO on their project’s progress at the weekly townhalls, where the community can share their thoughts, comments, or concerns with the team. The updates should also be written down and shared in the Discord.
+### Retroactive Rewards
+The DAO incentivizes people to start new projects with its quarterly rewards bonus system.
 
-Project stewards are responsible for making sure each transaction on the multisig is recorded with a justification (who was paid, how much, key deliverable from the payment).
+Each quarter, the projects that were completed will be eligible for Project Rewards if and only if they have submitted their Final Report to the DAO and it has been approved by the Astronauts. Final reports must be submitted by the end of the quarter.
 
-Project stewards are responsible for making sure the moonsettlers on their team are completing their work on time, and keeping an updated list of moonsettlers that are on their project. As well as registering the addition of a Moonsettler, or removal of a moonsettler in the DAO.
+The total amount of rewards each quarter is calculated as follows:
+	
+1. 5% of the liquid non-MOONEY assets (NMA) (e.g. ETH, DAI, and other stables) paid in the form of DAI. Assets with fluctuating prices will be priced at the day at the end of the quarter.
+2. A geometric series of MOONEY will be released as follows:
+    1. Q4 2022: 15,000,000 MOONEY.
+    2. Q1 2023: 14,250,000 MOONEY.
+    3. Q2 2023: 13,537,500 MOONEY.
+    4. Q3 2023: 12,860,625 MOONEY.
+    5. And so on, infinitely, decreasing by 0.95 every quarter.
 
-Project stewards are responsible for setting up their multisignature wallet.
+The DAI will be given as a lump-sum reward. The MOONEY will be streamed over the next year as long as the member remains engaged in a MoonDAO project as either a Rocketeer or Moonsettler. This way members that work for a long time at MoonDAO will accrue rewards and we have an incentive for people to remain active at the DAO.
 
-Project stewards are responsible for setting up the coordinape for their project. The coordinape must be completed within two weeks of the project ending.
+At the end of the quarter, the Senate will be presented with all the projects that were completed along with their Final Reports, and they will be allowed to allocate what they think is a fair proportion of rewards that should go to each project. Then a Snapshot vote will be created for members to delegate their voting power to each Senate member’s distribution they most agree with. The up-front payment will be subtracted from the quarterly project rewards bonus.
 
-Project stewards are expected to have MoonDAO be a primary commitment in their life. They are expected to act as a point of contact for the project and be active and responsive to make sure things move along and goals are achieved.
+A member’s reward bonus, B, will be calculated as follows:
 
-### Do project members receive rewards for their work?
+![](/img/mooneyequation.PNG)
 
-Members on projects get rewarded in two different ways as independent contractors:
+Where:
+- T(MOONEY,NMA) is the total rewards for the quarter in both MOONEY and Non-MOONEY assets (NMA) as determined in the previous paragraph.
+VotingPowerToProject is the total sum of voting power that was allocated to that particular project in the Member House. Voting Power for each voter is calculated as determined by our Constitution.
+- VotingPowerTotal is the total amount of voting power tallied for that quarter’s vote in the Member House.
+- MemberGive is the total amount of GIVE that was allocated to that member in that particular project.
+- TotalGive is the total amount of GIVE that was allocated to that particular project.
+- U(MOONEY,NMA) is the amount of upfront payment that the member received in MOONEY and Non-MOONEY assets **for all projects, guilds, or salaries coming to that member in that quarter.**
 
-1. When proposing a project, every team member can suggest a guaranteed amount that they are rewarded once their OKR on the project is completed successfully. These rewards are meant only to be a minimum viable amount so they can have some guarantees for payment upon completion of the goal that is assigned to them.
+If the B is negative for MOONEY or NMA, the Member will receive no bonus for that token.
 
-2. A bonus of $MOONEY token and Dai will come from the Coordinape bonus at the end of the pay period (defined below).
+**Example:**
 
-Many proposals may not need a guaranteed salary for project members, but especially for members that are full time at MoonDAO it can offer peace of mind to have some security around how much you can expect for the work you’re doing.
+For example, Bob received 1,000 DAI and 10,000 MOONEY up-front for his Project. The DAO has $500,000 in non-MOONEY liquid assets (ETH, DAI, USDC) at the end of Q4 2023. Bob’s Project received 10% of the voting power in the Member House. He received 25% of the total on Coordinape for that project. What is his reward?
 
-### How do project members get rewarded with Coordinape?
+Total DAI Pool = 5% * $500,000 = $25,000
+Total MOONEY Pool = 15,000,000 MOONEY * (0.95)^4 = 12,217,593.75 MOONEY
 
-After a project is completed, the steward is responsible for setting up a Coordinape for the project. The Coordinape will include every Moonsettler on the project. Rocketeers and Astronauts on one project are eligible to have OKRs as Moonsettlers on a project.
+Bob’s DAI Bonus before subtracting the upfront payment = 25,000 * 0.10 * 0.25 = 625 DAI.
+Since he already received 1,000 DAI, he will receive no DAI bonus.
 
-Only Moonsettlers, Astronauts and Rocketeers on a project are eligible to distribute GIVE tokens to others for the work that they do.
+Bob’s MOONEY Bonus before subtracting the upfront payment = 12,217,593.75 MOONEY * 0.10 * 0.25 = 305,439.84 MOONEY.
+Since he received 10,000 MOONEY upfront, his total bonus is 295,439 MOONEY.
 
-The project stewards have the right to add other people in the Coordinape to receive tokens, however those new added people may not have GIVE tokens.
+Therefore Bob’s Total Rewards are = 1,000 DAI + 10,000 MOONEY + 295,439 MOONEY = 1000 DAI and 305,439.84 MOONEY.
 
-The project stewards will have 3x the GIVE tokens or 1/5th of the total GIVE tokens, whatever is more. Everyone else on the Coordinape will have equal GIVE tokens.
+### Project Revenue Distribution
 
-In the week following the project ending, each project contributor will write a detailed description of the work that they did.
+MoonDAO has a standard on-chain deal with projects. The terms are fuzzy and can be specified further on a case-by-case basis with projects. If there is an agreement to distribute revenue, the specifics of the on-chain deal must be linked in the project proposal and signed by the project team’s multisig. We have a standard on-chain contract that teams can sign from their generated multi-sig.
 
-As a guideline for Moonsettlers: Break everything down by OKR that you had given to you and list out how you did according to that goal and measurable results. For each OKR do the following:
+If a MoonDAO project creates any profits, they will be distributed as follows:
 
-1. Focus on the work YOU specifically did. **Be specific.** No generalities like “I helped with marketing and outreach”
-2. Describe the **impact** that it had on the organization. Try to be quantitative with the outcomes that your work had on the project.
-3. Describe the complexity of the work.
-4. Attach documentation for the work that you did.
+1. **Recoup first:** MoonDAO’s total commitment to the project is its upfront payment to create the Project (in the project proposal) PLUS any retroactive rewards went to the project. The revenue is split via a waterfall system, where the DAO’s payment is first recouped along with any other parties that put up a commitment on a pro-rata basis. In other words, if MoonDAO put in $150k and another group put in $50k, then for every dollar up to $200k, MoonDAO will receive 75% and the other party will receive 25%. Next:
+2. **Revenue split:** After the recoup is completed, 50% of revenue will go to the project team, and be distributed to individual team members in the same proportion as the team’s Coordinape when submitted. 50% of revenue will be distributed to the parties committing up-front capital on a pro-rata basis in proportion to the amount of up-front capital committed to the project measured in dollars at the time of funding. If MoonDAO is the only party committing capital up-front, then 50% of the revenue will return to the DAO’s treasury.
 
-Work that was completed as part of a bounty should not be included in a contributor’s coordinape work.
+Each project will create a custom split contract with these conditions input, and include that agreement as linked in the project. They will only use that contract to receive revenue for the project.
 
-If a contributor does not write this for each OKR with a description of the work they did, analysis of the impact, and documentation of the work, **then they will not be eligible to receive tokens.**
+Unless otherwise specified, this agreement will exist for two years, with the right to renegotiate terms after the period is over.
 
-It is highly recommended that each member on a team **keeps a record of the work that they did for the project.**
+After the period ends, if the Project Team decides to continue working on the project separately from MoonDAO, then MoonDAO will receive a 10% stake in the organization. Both in equity and in tokens if they are created. MoonDAO has the option to be included in any future capital raises for the project. MoonDAO may license its brand to the organization for future work and can continue to create new agreements and partnerships with the organization.
 
-There will be vesting associated with the $MOONEY given to each contributor. The total amount will **vest on a monthly basis over the period of one year.** With 25% of the total vesting immediately after the pay period is over, and the rest vesting on a monthly basis over the period of a year, on the first of every month. **Vesting of $MOONEY will continue as long as the contributor stays as an active participant inside of MoonDAO.** If they are no longer meeting the criteria to be a Moonsettler or above they will receive one warning, and then if nothing changes after the warning their vesting will end.
+In some circumstances, a formal off-chain agreement may be signed between the project team and the DAO to specify the details of this deal, in the jurisdiction of the Project Team’s choice. This agreement must be linked in the project proposal.
 
-### How will the project Coordinape budget get determined?
 
-The total amount to be distributed in Coordinape across all projects will be in both Dai and $MOONEY. The total budget of Dai will be voted on by the community, and the $MOONEY token will be distributed based on the following schedule:
+### Project Intellectual Property
 
-The total $MOONEY amount for a project will be determined by a snapshot vote as follows:
+Unless otherwise noted all projects use a creative commons license and all their work will be open-sourced to the world.
 
-1. On a quarterly basis the DAO will get a list of all the active projects that were completed in that quarter.
-2. There will be a geometric release of the total $MOONEY token over time. With 40 Million $MOONEY released in the first quarter, and then 0.95 that amount released every quarter after that. This is a closed geometric series totalling 800 million $MOONEY for contributors over an infinite period of time. The amount will be released on a quarterly basis (every three full moons) as follows: 40 Million $MOONEY assigned in the first quarter. 38 Million $MOONEY assigned in the second quarter. 36.1 Million $MOONEY assigned in the third quarter. And so on, infinitely.
-3. DAO members will vote on the proportion of the release of $MOONEY that is sent to each project by token weighted voting, or whatever governance mechanism the DAO selects, with the precedence between the two being the latter.
+If any intellectual property is generated by the internal project team, it will be co-owned by the project team and MoonDAO. Any patents, trademarks, copyrights, or trade secrets generated will be co-owned with a 50% share going to MoonDAO and other parties that put up capital proportional to their share of the total, and a 50% share going to the project team.
 
-This incentive structure will begin right after Phase 2 is complete. The clock will start for these incentives once Phase 2 incentives are completed. The $MOONEY assigned will vest over a one year period as explained in the Coordinape section.
+The project team will have the ability to license, use, modify, exploit, and enforce IP rights against third parties, and make decisions about IP-related matters. Revenue for the IP will be based on co-ownership shares.
 
-### What happens when a project is passed?
+If IP rights are reserved, they will be represented through on-chain IP-NFTs representing the intellectual property.
 
-Once passed, the project steward becomes a Rocketeer in the DAO, and the initial team will be Moonsettlers. The project steward then do the following:
 
-They must post the Project proposal in the active projects channel so new members of the DAO can see the work that is being done. The steward must create a multisig to collect the funds (they will be reimbursed for the cost of the multisig creation), and the funds for the project will be sent to their generated multisig. A new channel is created by the project steward so their team can start working transparently inside of the DAO. Work must be primarily completed in that channel. Not elsewhere.
+### Dispute Resolution
 
-Every month of progress on the project, the project will be reviewed by the Astronauts and Rocketeers in their weekly meeting, with attendance by the project stewards, and they will assess the progress of the project. If the project is not meeting the expectations of the DAO, then a recommendation can be made to the DAO on a snapshot vote to end a project with their attached reasoning.
+Disputes between the project team and the DAO will be handled through arbitration as outlined in the MoonDAO Constitution.
 
-Projects must work transparently in the DAO such that anyone in the DAO can audit the work that is being done, and can weigh in if they have questions, comments, or concerns.
+If Dispute Resolution through MoonDAO’s arbitration procedure is unsuccessful, the dispute will be resolved through binding arbitration, referring to the rules of established arbitration institutions, such as the American Arbitration Association (AAA) or JAMS, which will provide procedural guidelines for the arbitration process.
 
-### How can someone be added as a new Moonsettler on a Project?
+### Miscellaneous FAQs:
 
-If Project needs work done that is best completed by a bounty rather than by anyone on the initial team, then projects can break down those tasks into a bounty board for things that can get done by anyone in the community.
+**Can a project change Rocketeers?**
 
-The bounties will be shared first in our MoonDAO guilds to see if there are interested people there. If the bounty cannot be completed by someone in the guild, then they can reach out on MoonDAO socials to find people that can complete the bounty.
+Yes. If a Rocketeer must step down for whatever reason but the project is not yet completed, an Astronaut may appoint a new Rocketeer to lead the project.
 
-Stewards are responsible for setting up a bounty with enough description, pricing the bounty with the budget that they have (either with Dai or $MOONEY), collecting all the interested people that want to complete the bounty, selecting the individual that will complete it in a fair and transparent way, and reviewing that the work is high quality and meets expectations, and ensuring payment for the contributor once work is completed.
 
-Once someone completes a bounty, and that there is enough work of that nature to be completed on that team to merit a role within the project, the project steward can make them an offer to become a Moonsettler on their team. All Moonsettlers must have completed at least one successful bounty before being added to a project team.
+**Can Rocketeers be external to MoonDAO, or must they be members?**
 
-The Project steward must register the moonsettler as a member of the DAO and the Astronauts must sign off on the addition to make sure that the moonsettler has a properly scoped role inside of the project with deliverables.
+Rocketeers must be MoonDAO members before they start a project. If someone wants to join a project but is not yet a member, they should be on-boarded into the community and get vMOONEY before starting work, but it is not a strict requirement.
 
-The steward will then add the moonsettler to a new channel where the steward can introduce the member of the project with a bio and add their responsibility inside of the project. The steward is responsible for onboarding the Moonsettler and teaching them how the DAO works.
 
-Failure to properly register Moonsettlers as described here will result in a warning. If done multiple times it can result in loss of the steward role.
+**What happens if the project misses its deadline?**
 
-Astronauts and Rocketeers on a different project are eligible to have OKRs as Moonsettlers on a project.
+If you are going over the originally intended timeline please notify the Senate in your monthly update. If the deadline extends into a new quarter the Astronauts will have to approve the project’s continuation.
 
-### How will projects access funds allocated to it?
 
-Projects must create a multi-sig wallet with at least two astronauts and three other members inside of the team, and greater than 70% execution threshold. Each member of the multisig should be a MoonSettler, Rocketeer, or Astronaut for at least a month, and each must be approved by the Astronauts. Multisig members should be using the highest level of security possible. This allows the team to access funds that are earmarked over to the project and can access them without needing to go through the DAO.
+**Who can be on the Project’s multisig?**
 
-Projects must keep a record of their expenses along with justifications so that the use of funds can be tracked and audited by the DAO.
+Multisig signers should include the project Rocketeers and other trusted members of our community that have had a role (MoonSettler or above) for more than a month. Multisig members should be using the highest level of security possible.
 
-All expenditures for the project should be done through the multisig. Any off-chain transactions must be documented with receipts, and then reimbursed through the multisig.
 
-If those rules aren’t followed, the members will lose their roles in the DAO and will not be able to work on other projects at MoonDAO.
 
-### Can a project be shut down?
+**What if a project requires a Budget increase?**
 
-If the community loses faith in a project’s ability to execute for whatever reason, the DAO can pass a Snapshot vote to disband the team with a 50% token weighted vote. No project coordinape will be created if a project is disbanded by a Snapshot vote, the stewards will not receive their salary. Multisig funds will be returned to the DAO.
+If a budget needs to be increased it must go through the full project proposal process with a justification for the budget increase.
 
-### Can a project change stewards?
 
-Yes. If a steward must step down for whatever reason but the project is not yet completed, an Astronaut may appoint a new steward to lead the project.
+**How do we amend the project system?**
 
-### Can the community change the project team’s decision about a project decision?
+The Astronauts can propose to amend this system by going through our DAO Governance as outlined in the Constitution.
 
-If a concern about the direction of a project is raised from a community member and it cannot be resolved through discussion, a Snapshot proposal can be created for the decision so the community can weigh in. This exists so that if the community is unhappy with a project decision, the community can voice their concerns.
 
-### What happens when a project is completed?
+**Can the community change the project team’s decision about a project?**
 
-At any time, the project stewards can decide that the project is completed.
+Generally no. However, if concern about the direction of a project is raised by a community member they are free to message the Rocketeer and ask them directly. If a major issue that goes against our rules is presented, then the Senate can vote to shut the project down (end payment streaming, receive treasury back, remove member’s roles, and exclude the project from quarterly rewards), and slash the Delegate’s stake.
 
-If the project stewards claim that the project is completed, but the community does not agree that the work was completed in good faith, then an issue can be raised by a Rocketeer, Astronaut, or Guild Steward, and then a randomly selected group of seven guild members will judge whether they believe the work was completed in good faith by the project team.
+------
 
-The seven members will judge on their own whether they believe that the team acted in good faith and did everything they could to achieve their objective. If four of the seven members believe that the team did not complete the objective in good faith, then the project stewards can either elect to finish the work that is deemed to be missing, and the team can still receive the project’s rewards, or they can choose to abandon the project and the team will not receive the rewards for the project.
 
-If the project ends successfully, the team members all graduate to becoming Voyagers and they are free to join other projects or start a new project.
+# MoonDAO Project Proposal Template
+Each project will need to fill out the template below and submit it under “proposal-submit” at least **two days** before the Senate meeting. **Proposals should be no more than 4 pages max. If it is longer, consider factoring out your proposal into separate documents.
+**
 
-### All excess funds will be returned to the DAO treasury.
+**Project Title: e.g. MoonDAO Merch**
 
-Within two weeks, a final report is created for the DAO with detailed information about the use of all the funds, deliverables from contributors, and other relevant information, and the project steward must finish a coordinape as described in the “how to project members get rewarded” section.
+**Abstract:** This is a top-level description of the idea. Please use ELI5 wording and summarize things for anyone to understand what you want to achieve.
 
-### Who can be on the project’s multisig?
+**Problem Statement:** Describe the problem your proposal solves.
 
-Multisig signers should be members of our community that have had a role (MoonSettler or above) for more than a month, and each must be approved by the Astronauts. Multisig members should be using the highest level of security possible.
+**Solution:** Describe the “meat & potatoes” of the proposal. Go into necessary detail about the work that needs to be done, alternative solutions considered, open questions, and future directions. Keep it concise.
 
-Multisig signers are expected to complete timely signatures when requested.
+**Benefits:** Point out the core benefits of the proposal implementation and how it will affect MoonDAO. If the proposal can create revenue please create justification for how much revenue it could generate.
 
-Multisigs should have a 75% or above execution threshold, and at least five members on it.
+**Risks:** Highlight any risks from implementing the proposal and points to consider regarding the proposal.
 
-One of the multisig signers should be a current Astronaut.
+### Objectives and Key Results
+[If you are unfamiliar with OKRs please read this article on how to write an effective OKRs 
+Project scorecard 
+](https://docs.google.com/spreadsheets/d/1Ng0UuwHrnurkRbi-joJBsYjdNSRl60AmO1pL1CpKkKA/edit?usp=sharing)
 
-### What if a project requires a Budget increase?
+You can write as many OKRs as you think are needed. One OKR is fine if that captures the full extent of what you want to achieve. One focused goal is preferred instead of many. Objectives should use SMART principles (Specific, Measurable, Achievable, Relevant, and Time-Bound). 
 
-If a budget needs to be increased it must go through the full project proposal process with a justification for budget extension.
+**Objective #1:** e.g. Create high-quality merchandise that can be sold online and distributed at events to promote MoonDAO.
 
-### Restrictions on Timeline and Budget
+**Key Results for Objective #1: **
+- Create an online Shopify marketplace where we sell our merchandise. 
+- Design and sell 100 high-quality MoonDAO shirts.
 
-Every month, the project will be reviewed in the weekly Rocketeer and Astronaut meeting, where they will give their recommendation on whether the project should proceed.
+**Member(s) responsible for OKR and their role:**
+- DiscordUser1: Their role on the OKR, their focus to making this possible
+- DiscordUser2: …
 
-Total Budget for projects are limited to a maximum of $50,000 USD equivalent of Dai and $MOONEY allocated to the project (at the time of project approval), unless there is special approval by the Astronauts. If your project requires more than $50,000, find a smaller goal that can be completed on a smaller budget and then once it is finished the DAO can vote to increase the budget.
+### Team Table (Table A)
+*There can be a maximum of two team Rocketeers. Project teams may not need an initial team. It can just be an individual submitting a proposal. As a general rule of thumb, try to keep teams small and focused in the beginning, **with clear deliverables and OKRs for each member.***
 
-### Amendments to this proposal
+|                                                                                                                |                                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Team Rocketeers**                                                                                            | @DiscordUser1                                                                         |
+| **Initial Team**                                                                                               | @DiscordUser2, @DiscordUser3, @DiscordUser4                                           |
+| **Delegate **                                                                                                  | A member with 250,000 vMOONEY. Cannot be on the initial team, nor the team Rocketeer. |
+| **Foreign Language Representative (optional)**                                                                 | @DiscordUser5                                                                         |
+| **Multi-sig Signers (if Budget is needed. This must be at least 5 people with a 3/5 execution threshold )   ** | @DiscordUser1, @DiscordUser2, @DiscordUser6, @DiscordUser7, @DiscordUser8             |
+| **Multisig ETH address  **                                                                                     | Multisig address must be created before the project is submitted to Snapshot.         |
+| **Revenue Split Agreement Address     **                                                                       | If there is revenue for the project, a split agreement should be created.             |
 
-The DAO can agree to amend this system with a 70% majority vote based on our current governance practices of a token weighted vote with a 4% cap for any individual.
+**Team Rocketeer(s) Bio:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-=====================================================================
+**Team Rocketeer Payment (optional):**
 
-## MoonDAO Project Proposal Template
+**Initial Team Bios**
+*Include one bio for each team member*
 
-Each project will need to fill out the template below: [Also view the Google Doc](https://docs.google.com/document/d/1zXXoi5yTnsnFFOYgY5UMFb7W8l3mSzcXFPr6Amb3YZY/)
+**Team Member #1: **
+**Bio/background:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Team Member Payment (optional):**
 
-### **Project Title:** e.g. MoonDAO Merch
+**Team Member #2: **
+**Bio/background:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Team Member Payment (optional):**
 
-**Abstract:** This is a top level description about the idea. Please use ELI5 wording and summarize things for anyone to understand what you want to achieve.
+### Estimated Project Timeline (Table B)
+These just need to be a rough timeline of milestones for the project. This is mostly intended to help you put together an idea of the work that needs to get done and when you hope to finish each deliverable. Please add each of the monthly reviews and milestones.
 
-**Motivation:** Describe the motivation behind the proposal, the problem(s) it solves and the value it adds. This is your chance to show why this proposal is necessary, and how the changes would benefit if implemented.
+| Date         | Description                          |
+| ------------ | ------------------------------------ |
+| Mar 28, 2022 | List of potential Manufactuerers     |
+| Mar 29, 2022 | Reach out to Manufacturers           |
+| One Month    | Review #1 at Senate meeting + Report |
+| Apr 15, 2022 | Ship out Hoodies                     |
 
-**Specification:** Describe the “meat & potatoes” of the proposal. Go into deep detail around the work that needs to be done, options considered, open questions, and future directions. The more detail, the better.
+**Deadline for the project: (e.g. 18th of April, 2022)**
 
-**Benefits:** Point out core benefits of the proposal implementation and how it will affect MoonDAO. Risks: Highlight any risks from implementing the proposal and points to consider regarding the proposal.
+***This is the date by which you think the OKRs will be completed. If you are going over the deadline for the project, please let the DAO know and give a new estimate of when the work is intended to be completed.***
 
-#### Objectives and Key Results:
+### Budget Justifications (Table C)
+These are fixed costs to make your project happen. This might also include bounties that you’ll make inside of the DAO (it’s recommended to have some amount allocated for bounties or competitions), or specific work that must be contracted out to complete the project. Please provide links to quotes where possible.
 
-[If you are unfamiliar with OKRs please read this article on how to write effective OKRs Project scorecard](https://docs.google.com/spreadsheets/d/1Ng0UuwHrnurkRbi-joJBsYjdNSRl60AmO1pL1CpKkKA/edit?usp=sharing)
+| Description                                             | Amount         | Justification         |
+| ------------------------------------------------------- | -------------- | --------------------- |
+| Manufacturing Costs with x Manufacturer for 100 Hoodies | $1000          | (link to pdf quote)   |
+| Bounty for a shirt design competition                   | 100,000 MOONEY | Community engagement. |
+| Total MVPs for team                                     | $X             |                       |
+| ...                                                     | ...            | ...                   |
+| **Total**                                               | **Sum total**  |                       |
 
-You can write as many OKRs as you think are needed. One OKR is fine if that captures the full extent of what you want to achieve. One focused goal is preferred instead of many.
+### Transactions to be Executed (Table D)
 
-**Objective #1:** e.g. To create high quality merchandise that can be distributed at events to promote MoonDAO. **Key Results for Objective #1:**
+| Transaction Type | Amount  | Token Type   | Receiving Address |
+| ---------------- | ------- | ------------ | ----------------- |
+| Send             | 1000    | DAI/ETH/etc. | 0x000…0069420     |
+| Send             | 100,000 | MOONEY       | 0x000…0069420     |
 
-- Create 100 Hoodies.
-- Create 100 hats.
+### Revenue Distribution Agreement
+- Standard MoonDAO Agreement.
+    - Terms here:
+    - 
+- Different Agreement
+    - Link to on-chain agreement:
+    - Link to off-chain agreement:
 
-**Objective #2:** e.g. To create a MoonDAO merch webpage to sell our Merchandise to people in our community **Key Results for Objective #2:**
+### In-Depth Approval Senate Signature
+This is only required if your project requires up-front funding from MoonDAO or it is going to crowd-raise with support from MoonDAO.
 
-- Complete 50 purchases through our website.
-- etc.
+Senate Member Signature #1 __________________
+Senate Member Signature #2 __________________
+Senate Member Signature #3 __________________
 
-#### Team Table (Table A)
+### Project Approval Checklist
+If your project is approved please complete this checklist within one week of your project starting.
 
-There can be a maximum of two team stewards, both must be a Moonsettler or above for at least a month, unless there is an exception made by an Astronaut. Project teams may not even need an initial team. It can just be an individual submitting a proposal. As a general rule of thumb, try to keep teams small and focused in the beginning, with clear deliverables and OKRs for each member. Reach out to a sponsor to help you put together the proposal to avoid having to redo any work. Multisig signers should include two astronauts, and as a rule of thumb the rest should be either trusted members in the DAO, or the project stewards.
+- [ ] Added Project to the Website Dashboard (Contact Dev Rocketeer for info)
+- [ ] Created Multisig to receive the funds
+- [ ] Updated member roles
+- [ ] Created Juicebox (optional)
+- [ ] Made Google Drive Folder
+- [ ] Created DeWork Space For Project
+- [ ] Created Discord Channel for Coordination
 
-| Team Steward | e.g. @Larrotiz#8888 |
-| --- | --- |
-| **Initial Team** | e.g. @enroggo @bay @kori @pablo @richard |
-| **Sponsors** | 1 Rocketeer or Astronaut |
-| **Foreign Language Representatives (optional)** | e.g. @carol, luffy |
-| **Multi-sig Signers (if Budget is needed)** | e.g @kori @pablo @enroggo @Larrotiz @bay |
 
-**Team Steward(s) Bio:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-**OKR within the project:** **Objective #1:** e.g. Lorem ipsum **Key Results for Objective #1:**
+# Project Final Report Template
+### Summary
+One paragraph summary of the Project report. Please include a link to the original snapshot proposal passed.
+### Results
+For each OKR list out each of the following sections:
 
-- Lorem ipsum
-- Lorem ipsum
+1. **Objective:** Copy paste the objective that was in your proposal.
+   1.  **Key Result:** Copy paste the key result in your proposal.
+       - Member(s): List the members responsible for this key result or objective.
+       - Results: Link the actual results, or if there is no actual product include a link to a writeup describing the actual results. Writeups are not necessary, the work should speak for itself. Not having a link to a finished product is usually a bad sign!
+       - Learnings: What went well? What went wrong? How could this have been done better? Keep this concise. This is meant to help MoonDAO do better next time.
+       - Maintenance: Ideally there is no maintenance involved with what was created. If there is, please leave a guide here. Just link the guide in a separate document.
+       - Team’s Self-reported Score: The team should get together and discuss the result and come up with a number from 0 (incomplete) to 1 (absolute success). If you have a quantitative metric, please divide the actual results by what you actually achieved. If greater than 1, just leave at 1. Keep in mind, each KR should be a little bit of a stretch to complete, it’s ok to not get a 1. If you got all 1s then you may not have been ambitious enough. Please be honest. Reporting a 1 with no tangible results will backfire.
+    2. **Key Result:** Key result number two. So on.
+        - Member(s):
+        - Results:
+        - Learnings:
+        - Maintenance:
+        - Team's Self-Reported Score:
+2.**Objective:** Objective number two. So on
+    1. **Key Result:** Key result one from objective number two. So on.
+        - Member(s):
+        - Results:
+        - Learnings:
+        - Maintenance:
+        - Team's Self-Reported Score:
 
-**Team Steward Minimum Viable Payment (optional):**
+### Team Member Contributions
+*Each member should take some time to fill this out with the specific contributions they had to the team. This will serve as a reference when team members are doing their Coordinape allocations. This is your chance to show off all the great work you did!*
 
-#### Initial Team Bios (one for each):
+**@TeamMember1**
+1. **Objective:** Copy paste the objective that was in your proposal.
+   1. **Key Result:** Copy paste the key result in your proposal.
+      1. **Specific Contribution:** Link the actual work you did, or include a writeup describing the actual results. If quantitative, better.
+      2. **Impact:**How did this contribute to the overall objective? How can you measure its impact?
+      3. **Complexity:** Why was this non-trivial to do? What challenges did you overcome?
+   2. **Key Result:** Key result number two. So on.
+      1. **Specific Contribution:**
+      2. **Impact:**
+      3. **Complexity:**
+2. **Objective:** Objective number two. So on.
+   1. **Key Result:** Key result one from objective number two. So on.
+      1. **Specific Contribution:**
+      2. **Impact:**
+      3. **Complexity**
 
-###### **Team Member #1:**
+### Coordinape Results
 
-**Bio/background:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Link to the Coordinape](https://coordinape.com/): Make the Astronaut the admin.
 
-**Role:** e.g. Designer
+| Member Name     | % of total rewards | Upfront Payment          |
+| --------------- | ------------------ | ------------------------ |
+| @TeamMemberName | 21%                | 3,000 DAI, 50,000 MOONEY |
+| ...             | ...                | ...                      |
 
-**OKR within the project:**
+### Treasury Transparency
+Link to Treasury with unused funds returned to the main DAO Treasury.
 
-**Objective #1:** e.g. Lorem ipsum
+| Txn Title      | Reason                       | Recipient   | Etherscan Link | Deliverable             |
+| -------------- | ---------------------------- | ----------- | -------------- | ----------------------- |
+| Legal Retainer | Retainer for contract lawyer | Layers Inc. | link           | PDF of contract created |
+| ...            | ...                          | ...         | ...            | ...                     |
 
-**Key Results for Objective #1:**
-
-- Lorem ipsum
-- Lorem ipsum
-
-**Team Member Minimum Viable Payment (optional):**
-
-###### **Team Member #2:**
-
-**Bio/background:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-**Role:** e.g. Designer
-
-**OKR within the project:**
-
-**Objective #1:** e.g. Lorem ipsum
-
-**Key Results for Objective #1:**
-
-- Lorem ipsum
-- Lorem ipsum
-
-**Team Member Minimum Viable Payment (optional):**
-
-#### Budget Justifications (Table B)
-
-These might include bounties that you’ll make inside of the DAO, or specific work that must be contracted out to complete the project. This contracted out work can be in the form of Bounties. Don’t include salaries for the team, the team will get rewarded with Coordinape after the project is over.
-
-| Description | Amount | Justification |
-| --- | --- | --- |
-| Manufacturing Costs with x Manufacturer for 100 Hoodies | $1000 | (link to quote) |
-| Shipping Cost to distribution center | $300 | (link to qupte) |
-
-#### Total Budget (including guaranteed payments to team members):
-
-**X,XXX Dai** **XX,XXX $MOONEY**
-
-#### Estimated Project Timeline (Table C)
-
-These just need to be a rough timeline of milestones for the project. This is mostly intended to help you put together an idea of the work that needs to get done and when you hope to finish each deliverable.
-
-| Date         | Description                     |
-| ------------ | ------------------------------- |
-| Mar 28, 2022 | List of potential Manufacturers |
-| Mar 29, 2022 | Reach out to Manufacturers      |
-| Apr 15, 2022 | Ship out Hoodies                |
-
-#### Deadline for the project: (e.g. 18th of April, 2022)
-
-This is the date by which you think the OKR will be completed. If you are going over the deadline for the project, please let the DAO know and give a new estimate of when the work is intended to be completed.
+### Project Wrap Up Checklist
+- [ ] Added Project Final Report onto the Website Dashboard
+- [ ] Upload Final report to the Google Drive
+- [ ] Returned excess funds to the Treasury
+- [ ] Presented Final Report to Senate
+- [ ] Update Discord Roles
+- [ ] (if needed) Create documentation for users of the work, or people who will need to maintain the project once it is completed.

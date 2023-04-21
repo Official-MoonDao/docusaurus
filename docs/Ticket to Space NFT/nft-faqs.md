@@ -3,7 +3,7 @@ id: tts-NFT-FAQs
 title: Ticket to Space NFT FAQs
 description: FAQs regarding MoonDAO's Ticket to Space NFT
 keywords: [NFT, Ticket-to-Space, MoonDAO, Space Travel]
-sidebar_label: Ticket to Space NFT FAQs
+sidebar_label: NFT FAQs
 sidebar_position: 1
 slug: /tts-nft-faqs
 ---
