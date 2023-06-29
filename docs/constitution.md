@@ -184,7 +184,7 @@ MoonDAO is organized into two major organizational structures, MoonDAO Projects 
 
 ### 3.1 Projects
 
-MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the project stewards (i.e. Rocketeers) have all authority around who is part of the project, how the budget is spent, and strategy around execution. Once the project’s original mission is completed the team may be disbanded to work on other projects. [Specification for how MoonDAO projects operate can be found here.](/project-guidelines) Project stewards may have whatever consensus mechanism they would like internally (e.g. they may do one-person-one-vote, token voting, or just let the stewards have control). This includes how they decide over their votes in the Senate.
+MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the Rocketeers have all authority around who is part of the project, how the budget is spent, and strategy around execution. Once the project’s original mission is completed the team may be disbanded to work on other projects. [Specification for how MoonDAO projects operate can be found here.](/project-guidelines) Rocketeers may have whatever consensus mechanism they would like internally (e.g. they may do one-person-one-vote, token voting, or just let the stewards have control). This includes how they decide over their votes in the Senate.
 
 ### 3.2 Guilds
 

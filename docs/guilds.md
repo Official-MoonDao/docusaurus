@@ -113,7 +113,7 @@ Guild stewards must provide monthly updates to the DAO on their guild’s activi
 
 Guild stewards must ensure the quality of their guild members by setting up the entry test, interviewing applicants, organizing regular training and knowledge sharing between guild members.
 
-Guild stewards should work closely with Project stewards to have an overview of on-going projects as well as coming projects so that they can introduce or allocate the right resource to project teams. Besides, guild stewards are expected to help guild members to get involved in bounties and make sure that their members complete the bounties on time. 
+Guild stewards should work closely with Rocketeers to have an overview of on-going projects as well as coming projects so that they can introduce or allocate the right resource to project teams. Besides, guild stewards are expected to help guild members to get involved in bounties and make sure that their members complete the bounties on time. 
 
 Guild stewards are responsible for on-boarding new members, registering the addition or removal of members. Guild stewards should consider ramping up their team whenever appropriate to meet the demands from the projects. 
 
@@ -200,12 +200,12 @@ You can write as many OKRs as you think are needed. One OKR is fine if that capt
 Team Table 
 There is one guild steward and he/she must play the role of Rocketeer for at least a month. Initial guild team must have at least 3 members and they must have knowledge in their field. 
 
-| Guild Steward | e.g. @Larrotiz#8888 |
-| --- | --- |
-| **Initial Team** | e.g. @enroggo @bay @kori @pablo @richard |
-| **Sponsors** | 1 Rocketeer or Astronaut |
-| **Foreign Language Representatives (optional)** | e.g. @carol, luffy |
-| **Multi-sig Signers (if Budget is needed)** | e.g @kori @pablo @enroggo @Larrotiz @bay |
+| Guild Steward                                   | e.g. @Larrotiz#8888                      |
+| ----------------------------------------------- | ---------------------------------------- |
+| **Initial Team**                                | e.g. @enroggo @bay @kori @pablo @richard |
+| **Sponsors**                                    | 1 Rocketeer or Astronaut                 |
+| **Foreign Language Representatives (optional)** | e.g. @carol, luffy                       |
+| **Multi-sig Signers (if Budget is needed)**     | e.g @kori @pablo @enroggo @Larrotiz @bay |
 
 ## Guild Steward Bio:
 
