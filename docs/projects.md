@@ -15,33 +15,6 @@ MoonDAO Projects are goal-oriented teams working on mission-aligned objectives. 
 
 MoonDAO Projects are composed of Rocketeers that lead a team of MoonDAO members referred to as Moonsettlers. Along with work on their core objective, Rocketeers have a responsibility to co-govern MoonDAO in the Senate. Projects are supported by Delegates who have a responsibility to help the project follow best practices and ensure they meet all the requirements outlined in this document.
 
-- [MoonDAO Projects 4.0](#moondao-projects-40)
-  - [Project Proposal Process](#project-proposal-process)
-  - [Project Start](#project-start)
-  - [Project Updates And Responsibilities](#project-updates-and-responsibilities)
-  - [Project Completion](#project-completion)
-  - [Retroactive Rewards](#retroactive-rewards)
-  - [Project Revenue Distribution](#project-revenue-distribution)
-  - [Project Intellectual Property](#project-intellectual-property)
-  - [Dispute Resolution](#dispute-resolution)
-  - [Miscellaneous FAQs:](#miscellaneous-faqs)
-- [MoonDAO Project Proposal Template](#moondao-project-proposal-template)
-  - [Objectives and Key Results](#objectives-and-key-results)
-  - [Team Table (Table A)](#team-table-table-a)
-  - [Estimated Project Timeline (Table B)](#estimated-project-timeline-table-b)
-  - [Budget Justifications (Table C)](#budget-justifications-table-c)
-  - [Transactions to be Executed (Table D)](#transactions-to-be-executed-table-d)
-  - [Revenue Distribution Agreement](#revenue-distribution-agreement)
-  - [In-Depth Approval Senate Signature](#in-depth-approval-senate-signature)
-  - [Project Approval Checklist](#project-approval-checklist)
-- [Project Final Report Template](#project-final-report-template)
-  - [Summary](#summary)
-  - [Results](#results)
-  - [Team Member Contributions](#team-member-contributions)
-  - [Coordinape Results](#coordinape-results)
-  - [Treasury Transparency](#treasury-transparency)
-  - [Project Wrap Up Checklist](#project-wrap-up-checklist)
-
 ### Project Proposal Process
 
 - **Step 1:** ***Post in the “project-ideation” channel on Discord.*** You don’t need to have a fully formed idea for a project yet, and you can be pretty informal at this stage. There are two things to articulate in the ideation channel: 

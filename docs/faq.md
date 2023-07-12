@@ -6,6 +6,58 @@ keywords: [FAQ, Funds, Risks, Token, DAO Conpesation, Governance]
 sidebar_position: 9
 ---
 
+### How much MOONEY should I buy?
+
+Up to you. You can view statistics for how much MOONEY others have [here](https://dashboard.moondao.com/#/analytics).
+
+### Why do I need to stake to vote?
+
+We don’t want our community to be controlled by day-traders. We’d rather be governed by those with a long-term view and commitment to our mission. Staking locks your tokens for some amount of time. Stake [here](https://app.moondao.com/lock).
+
+### How long should I stake?
+
+Up to you. The longer the stake the more voting power you have.
+
+### What do I get in exchange for staking MOONEY?
+
+Staking gives you governance inside of the community. [Our treasury](https://dashboard.moondao.com/#/treasury) is co-governed by all the stakers. All our financial decisions are approved by them. You can vote on proposals [here](http://vote.moondao.com). Those that have 250,000 vMOONEY (vMOONEY = voting MOONEY) can [submit proposals](https://discord.com/channels/914720248140279868/1034923662442254356) directly to the community, otherwise you’ll need a co-signer with 250k vMOONEY.
+
+
+### How is my voting power calculated?
+
+We take the square root of your vMOONEY balance. This is known as quadratic voting. To prevent people from making multiple accounts we use sybil resistance with [Gitcoin Passports](https://passport.gitcoin.co/). To vote, make sure your wallet has a valid Gitcoin passport (note: Passports resets every 3 months so make sure you re-do your stamps each quarter). We ask that you have a Google Account, Twitter account, Discord Account, and an ETH wallet with at least 1 txn that has existed for over 30 days.
+
+### What are the mission and values of the community?
+
+See our [Constitution](http://docs.moondao.com/constitution). It also includes more details about our governance process and important rules and structure in our community.
+
+### How do I submit a proposal?
+
+You start by posting your idea in the [ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) of our Discord. Anyone can post there. Please outline the problem you’re trying to solve and the proposed solution. Other members can help you come up with ideas for your project. Once the idea has been in ideation for a week, you can create a formal proposal and submit it in “[proposal review](https://discord.com/channels/914720248140279868/1034923662442254356)”.
+
+All proposals from the community take the form of projects to implement the proposal. Once a proposal is submitted for review, three Senate members will do an in-depth review, you’ll respond to the comments and close them out and then it will be voted on by the Senate. Once approved by the Senate it will go to a snapshot for the community to vote.
+
+### Where can I find the proposal template?
+
+Find the proposal template at the bottom of the [Projects system](https://docs.moondao.com/project-guidelines/). You can also find important information there about the rules and structure of projects, if you have never worked on a project before you must join a project before leading your own project. This helps you understand our system, and also helps us get an understanding of your work. We don’t want to get married to someone after one week of knowing each other 🙂
+
+### How do I join a guild?
+
+Start the process by submitting an onboarding form [here](https://discord.com/channels/914720248140279868/1108226019359477860/1108811090747461803). We’ll ask that you provide evidence of your ability in the skill of the guild you’re applying for.
+
+
+### What do I get for joining a guild?
+
+Guilds are there as a quality filter. We want to review people’s backgrounds before they join projects. You’ll need to be formally part of a guild to join a project. As part of a guild you get to network with other members and are allowed to join projects.
+
+### How do I join a project?
+
+Join a guild, come to the guild meeting, and guild stewards will help match you to existing or upcoming projects. Project leaders will decide who joins the project team.
+
+### How much do I get paid for my work?
+
+All of our contributors get paid retroactively. At the end of the quarter we look at all the work that was done, and then distribute rewards to projects based on their outcomes. Then the project rewards are distributed to team members by rating each other through a system called [coordinape](https://coordinape.com/). For more details on how this works, read the [projects system](https://docs.moondao.com/project-guidelines/).
+
 ### Where are the funds going to be stored?
 
 Our funds are stored in a Gnosis multi-sig with five of seven signers. Signers can be elected and rotated based on the MoonDAO governance.

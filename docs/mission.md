@@ -8,7 +8,7 @@ keywords:
       Vision,
       Values
   ]
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 ## MoonDAO's Mission
