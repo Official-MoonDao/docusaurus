@@ -3,7 +3,7 @@ id: quickstart
 title: Quickstart
 description: Quickstart Tutorial to get started at MoonDAO.
 keywords: [Quickstart, Getting started, Join, Onboarding, Governance]
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 
