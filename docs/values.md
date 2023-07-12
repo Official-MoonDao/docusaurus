@@ -21,8 +21,6 @@ sidebar_label: Values
 sidebar_position: 2
 ---
 
-# Values
-
 ### <del>Don’t</del> Can’t Be Evil
 
 All our finances are public. All our work is done in an auditable and transparent way on our MoonDAO official communication channels to the extent permitted by law or operational security of its members. All our code is open source and readable by the public. Everyone has access to the same information to ensure everything is auditable and the community has full access to the state of the DAO.

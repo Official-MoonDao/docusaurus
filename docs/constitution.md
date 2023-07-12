@@ -21,9 +21,7 @@ sidebar_label: MoonDAO Constitution
 sidebar_position: 7
 ---
 
-# MoonDAO Constitution
-
-Version 1.0 | Last updated: Sep 12, 2022
+Version 1.2 | Last updated: April 19, 2023
 
 ## <ins>1. Mission, Vision, and Values</ins>
 
@@ -71,17 +69,35 @@ We are here to do what others think is impossible. No goal is too crazy, ambitio
 
 MoonDAO is composed of three governing bodies: The MoonDAO Senate, Member House, and Executive branch.
 
+### Simple Majority
+A simple majority is reached if votes in favor/against are greater than 50%. 
+
+### Super Majority
+A super-majority is reached if the votes in favor/against are greater than 66.6%.
+
+### Seasons/Quarters
+Quarters refer to three-month periods. MoonDAO quarters are defined as follows: First quarter from January 1st to March 31st, second quarter from April 1st to June 30th, third quarter from July 1st to September 30th, and fourth quarter from October 1st to December 31st. 
+
 ### 2.1 Member House
 
 MoonDAO’s Member House is composed of the holders of $vMOONEY, otherwise known as MoonDAO members. MoonDAO only has two official governance tokens [$MOONEY](https://etherscan.io/token/0x20d4db1946859e2adb0e5acc2eac58047ad41395?a=0x679d87d8640e66778c3419d164998e720d7495f6) and $vMOONEY. The total supply of $MOONEY is fixed, MoonDAO will never mint more of this token.
 
-The only way for an individual to receive $vMOONEY is by staking $MOONEY. The $MOONEY token must be locked for a period of at least one week, to at most four years. In return, the person locking the token will receive a wallet-bound $vMOONEY linearly proportional to the length of staking. Each individual may only have one wallet holding $vMOONEY.
+MOONEY is found at Ethereum address 0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395
+vMOONEY is found at Ethereum address 0xCc71C80d803381FD6Ee984FAff408f8501DB1740
 
-Voting power for each member is determined by the square root of the total number of $vMOONEY tokens held in their registered wallet.
+The only way for an individual to receive $vMOONEY is by staking $MOONEY.  The $MOONEY token must be locked for a period of at least one week, to at most four years. In return, the person locking the token will receive a wallet-bound $vMOONEY linearly proportional to the amount of time until the MOONEY can be unlocked. Each individual may only have one wallet holding $vMOONEY.
 
-#### 2.1.1 MoonDAO Members
+![](/img/mooneyequation.PNG)
 
-A MoonDAO Member is any individual who holds wallet-bound $vMOONEY.
+Voting power for each member is determined by the square root of the following: The sum of the total number of $vMOONEY token and the amount of unstaked MOONEY divided by 1,460 held in the member’s one registered wallet. In other words:
+
+![](/img/votingequation.PNG)
+
+Each member may only have one wallet registered with MoonDAO to determine their voting power. Members may delegate their voting power to other members.
+
+#### 2.1.1 MOONDAO LLC Membership
+
+A MoonDAO Member is any individual who holds wallet-bound $vMOONEY in consonance with Article III of the MoonDAO Operating Agreement.
 
 ###### Rights
 
@@ -91,36 +107,11 @@ A MoonDAO Member is any individual who holds wallet-bound $vMOONEY.
 
 ### 2.2 Senate
 
-MoonDAO’s Senate is composed of Astronauts and Rocketeers. Each Senate member has the right to only one vote, even if they lead multiple projects. Proposals are first voted on by the Senate before being presented to the MoonDAO Member House. See section 2.4 for more information.
+MoonDAO’s Senate is composed of Rocketeers. Each Senate member has the right to only one vote, even if they lead multiple projects. Proposals are first voted on by the Senate before being presented to the MoonDAO Member House. See section [2.4](#24-proposal-process) for more information.
 
-#### 2.2.1. Astronauts
+#### 2.2.1. Rocketeers
 
-Astronauts are trusted members of the DAO that have the responsibility to represent MoonDAO’s mission and values externally, and provide leadership to the DAO internally.
-
-###### Election
-
-MoonDAO members may hold an election for a new Astronaut if there is a vacancy. Candidate Astronauts may be nominated by MoonDAO members and must have been part of the Senate for at least six months. Each nomination must go through the senate with ⅔ majority vote. If there are multiple nominations that go through the Senate, then the DAO will vote among the candidates using $vMOONEY with weighted voting. There may be multiple rounds of voting until a Candidate Astronaut receives ⅔rds token majority votes to be confirmed as an Astronaut.
-
-###### Term Limits
-
-Astronauts serve for a two year term. After two years, the DAO must re-vote with 2/3rds token majority to confirm they stay as an Astronaut. They are eligible to remain an Astronaut for multiple terms. There can only be a maximum of three Astronauts at any given time.
-
-###### Removal
-
-Astronauts may be removed through the creation of a Proposal that is approved by the Senate with greater than ⅔ majority vote, and the MoonDAO members with greater than ⅔ majority vote over a five day voting period.
-
-###### Rights
-
-1. Right to jointly propose (all Astronauts must agree) the appointment or removal of Treasury Signers. Appointment or removal must be ratified by the Senate and Member House with 2/3 majority vote with a voting period of five days, and approval of 5/7 of the treasury signers.
-2. Right to jointly propose (all Astronauts must agree) the removal of any member of the Senate for breaking the Code of Conduct, providing evidence of a reason for removal to the Senate transparently. This can be appealed and voted on for re-entry by a random drawing of seven MoonDAO Senate members.
-3. Right to jointly propose (all Astronauts must agree) the termination of MoonDAO projects.
-4. Right to appoint or remove MoonDAO moderators on official channels of communication.
-5. Right to individually propose a salary approved by the Senate and DAO members.
-6. Right to one vote in the Senate during the quarter(s) they are active.
-
-#### 2.2.2. Rocketeers
-
-Rocketeers are stewards of a [Project at MoonDAO](/project-guidelines) and are responsible for the execution of key objectives for the DAO.
+Rocketeers are stewards of a [Project at MoonDAO](https://docs.google.com/document/u/1/d/1IipR4ErKzodsa0R7SNSd45_1-gkkcr2964qj4wnL7jk/edit) and are responsible for the execution of key objectives for the DAO.
 
 ###### Election
 
@@ -128,29 +119,61 @@ Rocketeers are elected through the successful passing of a Project Proposal.
 
 ###### Term Limit and Removal
 
-Rocketeers are active in the Senate until the end of the quarter that their project ends, or if the community decides to end their project.
+Rocketeers are active in the Senate until the end of the season in which their project ends, or if the community decides to end their project.
 
 ###### Rights
 
 1. Right to appoint and remove members that are engaged on their objective within the project (i.e. Moonsettlers).
 2. Right to make strategic decisions about the execution of their key objective and the handling of their budget as described in the Project system.
-3. Right to one vote in the Senate during the quarter(s) when their Project is active.
+3. Right to one vote in the Senate during the season(s) when their Project is active.
 
 ### 2.3 Executive Branch
 
-MoonDAO’s Executive Branch is composed of the multi-signature wallet signers of the MoonDAO treasury located at Ethereum Address 0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9. There will only ever be seven signers, with an execution threshold of five people.
+MoonDAO’s Executive Branch is composed of Astronauts and the Treasury signers (hereinafter known as ‘signers’) of the MoonDAO treasury located at Ethereum Address 0xce4a1E86a5c47CD677338f53DA22A91d85cab2c9. There will only be seven signers, with an execution threshold of five signers.
 
-#### 2.3.1 Treasury Signers
+#### 2.3.1 Astronauts
+
+Astronauts are trusted members of the DAO that have the responsibility to represent MoonDAO’s mission and values externally and provide leadership to the DAO internally.
+
+###### Election
+MoonDAO members may hold an election for a new Astronaut if there is a vacancy. Candidate Astronauts may be nominated by MoonDAO members and must have been part of the Senate for at least 180 days. Each nomination must go through the senate with a super majority vote. If there are multiple nominations that go through the Senate, then the DAO will vote among the candidates using $vMOONEY with weighted voting. There may be multiple rounds of voting until a Candidate Astronaut receives super-majority votes to be confirmed as an Astronaut.
+
+###### Term Limits
+Astronauts serve for a two-year term. After two years, the DAO must re-vote with a super majority to confirm they stay as an Astronaut. They are eligible to remain an Astronaut for multiple terms. There can only be a maximum of three Astronauts at any given time.
+
+###### Removal
+Astronauts may be removed through the creation of a Proposal that is approved by the Senate with a super majority vote, and the MoonDAO members with super majority vote over a five day voting period.
+
+###### Rights
+
+1. All Astronauts unanimously have the right to propose the appointment or removal of Treasury Signers. Appointment or removal must be ratified by the Senate and Member House with a super majority vote with a voting period of five days, and approval of 5/7 of the treasury signers.
+2. All Astronauts unanimously have the right to propose the removal of any member of the Senate for breaking the Code of Conduct, by providing evidence of a reason for removal to the Senate transparently. This can be appealed and voted on for re-entry by a random drawing of seven MoonDAO Senate members.
+3. All Astronauts unanimously have the right to jointly propose the termination of MoonDAO projects.
+4. Right to appoint or remove MoonDAO moderators on official channels of communication.
+5. Right to individually propose a salary approved by the Senate and DAO members.\
+6. Right to one vote in the Senate during the season(s) they are active.
+
+#### 2.3.2 Treasury Signers
 
 Signers must create and sign transactions within five days of a proposal passing. Failure to do so may result in a warning and removal at the discretion of the Astronauts.
 
-Signers’ identity must be made public by the DAO. Sensitive legal documents (such as Passports, ID Cards) will be securely stored by the DAO with only the Astronauts having access to it.
+Signers’ identity must be made public by the DAO. Sensitive legal documents (such as Passports, ID Cards) will be securely stored by the DAO with only the Astronauts having access to it. Treasury signers must provide contact information where they can be reached in cases of emergency.
 
 MoonDAO signers are required to have at least 250,000 $vMOONEY.
 
+
 ###### Election
 
-Treasury signers are appointed by the Astronauts, and approved by the Senate and Member House with ⅔ majority vote, and 5/7 approval by the treasury signers. Term Limits There is no limit to the length of time a member can serve as a multi-signature member. Removal Treasury signers members can be removed by the Astronauts, and approved by the Senate and Member House with ⅔ majority vote, and 5/7 approval by the Treasury signers. Rights Right to object to a MoonDAO Proposal with written reasoning provided to the DAO of why the Proposal would put in jeopardy the long-term life of the DAO.
+Treasury signers are appointed by the Astronauts, and approved by the Senate and Member House with a super majority vote, and approval of a minimum 5 signers shall also be required. Astronauts may also provide a list of people and allow for the Member house to choose by ranked choice voting.
+
+###### Term Limits
+There is no limit to the length of time a member can serve as a multi-signature member.
+
+###### Removal
+Treasury signers members can be removed by the Astronauts, and approved by the Senate and Member House with a super majority vote, and approval of a minimum 5 signers shall also be required.
+
+###### Rights
+Right to object to a MoonDAO Proposal. Provided that the signer(s) provides written reasoning to the DAO with respect to such an objection and how such a proposal will affect the DAO in the long run.
 
 ### 2.4 Proposal Process
 
@@ -158,7 +181,7 @@ All MoonDAO proposals must go through the following process.
 
 #### 2.4.1 Creation
 
-Any MoonDAO member can suggest a proposal and discuss them on the MoonDAO governance forum. The Proposal must follow the templates provided by the DAO, if the proposal does not follow its relevant template, then it will not be considered valid and will not go forward for a Senate vote.
+Any MoonDAO member can suggest a proposal and discuss them on the MoonDAO governance forum. The Proposal must follow the templates provided by the DAO, if the proposal does not follow its relevant template then it will not be considered valid and will not go forward for a Senate vote.
 
 #### 2.4.2 Feedback from DAO members
 
@@ -166,11 +189,11 @@ Proposals will go through a feedback process on the forum for at least a week, a
 
 #### 2.4.3 Senate Voting
 
-At the Senate voting phase, the proposal will be active for no longer than one month since its authoring in the governance forum. A 70% majority in the Senate is required for the proposal to go forward to vote from the MoonDAO Member House, with a quorum of 80% required. Senate votes are one vote per member.
+At the Senate voting phase, the proposal will be active for no longer than 30 days since its publication in the governance forum. In order for a proposal to be voted upon by the MoonDAO Member House, it must first be approved by the Senate. For the proposal to receive approval, it must receive a favorable vote from at least 70% of the Senate members. The minimum quorum of Senate members required to vote in order for the proposal to be voted upon is 80% of the total number of Senate members. Each Senate member has only one vote.
 
 #### 2.4.4 Member House Voting
 
-At the MoonDAO Member House voting phase, if the proposal is a simple Yes/No, it will be adopted if the proposal achieves a 70% threshold according to the quadratic voting formula of $vMOONEY. If multiple options are presented, the proposal must have multi-choice voting, and voters can spread their voting power among the available options, and the one with a simple majority will be adopted. The voting period for Member House voting will be no less than five days.
+At the MoonDAO Member House voting phase, if the proposal has a binary (Yes/No) outcome, it will be adopted if the proposal achieves a 70% threshold according to the quadratic voting formula of $vMOONEY. If multiple options are presented, the proposal must have ranked-choice voting. The voting period for Member House voting will be **no less than five days.**
 
 #### 2.4.5 On-chain Execution
 
@@ -178,17 +201,18 @@ Following the approval of the Proposal by the Member House, if there is a transa
 
 If any treasury signers decide to veto the proposal and not sign the transaction, they must include written reasoning and publish it for DAO members on why they believe the execution of the transaction would put in jeopardy the long-term health of the DAO.
 
+
 ## <ins>3. Organizational Structure</ins>
 
 MoonDAO is organized into two major organizational structures, MoonDAO Projects and MoonDAO Guilds.
 
 ### 3.1 Projects
 
-MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the Rocketeers have all authority around who is part of the project, how the budget is spent, and strategy around execution. Once the project’s original mission is completed the team may be disbanded to work on other projects. [Specification for how MoonDAO projects operate can be found here.](/project-guidelines) Rocketeers may have whatever consensus mechanism they would like internally (e.g. they may do one-person-one-vote, token voting, or just let the stewards have control). This includes how they decide over their votes in the Senate.
+MoonDAO Projects are non-perpetual, goal-based teams that are voted by the community to act as trusted executors on behalf of the DAO to complete an objective. Projects can apply for a budget from the community, and once the project is passed, then the Rocketeers have all authority around who is part of the project, how the budget is spent, and strategy around execution. Once the project’s original mission is completed the team may be disbanded to work on other projects. [Specification for how MoonDAO projects operate can be found here.](/project-guidelines) Project stewards may have whatever consensus mechanism they would like internally (e.g. they may do one-person-one-vote, token voting, or just let the stewards have control). This includes how they decide over their votes in the Senate.
 
 ### 3.2 Guilds
 
-MoonDAO Guilds are talent pools to onboard, orient, and train members to complete bounties for MoonDAO projects. Guilds are managed by Guild stewards, who are responsible for interviewing members to ensure they have the necessary skills relevant to their guild. Guild Stewards ensure the quality of guild members, and help them get started on MoonDAO bounties, and eventually projects.
+MoonDAO Guilds are talent pools to onboard, orient, and train members to complete bounties for MoonDAO projects. Guilds are managed by MoonDAO stewards, who are responsible for interviewing members to ensure they have the necessary skills relevant to the guild. Stewards ensure the quality of guild members, and help them get started on MoonDAO bounties, and eventually projects.
 
 ## <ins>4. Rules of Coordination</ins>
 
@@ -212,9 +236,9 @@ No spam, scams, explicit content, soliciting or advertisements.
 
 Although DAOs aim to be trustless, trust still forms the basis of all relationships. It is important to be able to trust members that you work with. Dishonesty that affects people’s ability to rely on you may result in removal.
 
-#### 4.1.5 No sabotaging members
+#### 4.1.5 No sabotaging members or governance
 
-Any attempt made to sabotage the DAO or put it in a vulnerable position will result in removal. This includes sabotaging governance systems, blackmailing members, or preventing MoonDAO from proper functioning.
+Any attempt made to sabotage the DAO or put it in a vulnerable position will result in removal. This includes sabotaging governance systems, blackmailing members, or preventing MoonDAO from proper functioning. This includes manipulating our governance with multiple wallets.
 
 #### 4.1.6 Transparent Communication
 
@@ -238,12 +262,17 @@ Moderators are appointed and removed by the Astronauts at their sole discretion.
 
 Once members have been removed they have to handover key information and assets required for proper MoonDAO operations (passwords, etc.).
 
-### 4.3 Appeal Process
+### 4.3 Arbitration Process
 
-Every MoonDAO Member has the right to appeal removal from official channels of communication. After being removed, members may submit an appeal after 14 days have passed. Appeals will be reviewed by seven randomly selected Senate members, and through a majority vote they can decide whether the action should be reversed.
+Every MoonDAO Member has the right to appeal enforcement actions. After enforcement, members may submit an appeal within 30 days to info@moondao.com. Appeals will be reviewed by seven randomly selected Senate members, and through a simple majority vote they can decide whether the action should be reversed.
 
-In general, removals are intended to be temporary. The community may forgive members, and apologies go a long way.
+In general, enforcement actions are intended to be temporary. The community may forgive members, and apologies go a long way.
+
 
 ## <ins>5. Amendment</ins>
 
-A proposal to amend the constitution can be made by a Senate member, and ratified by the MoonDAO Proposal Process, with a threshold higher than 80% of Senate majority and 80% of Member House majority. With a quorum of 80% in the Senate, and ten day voting period in the Member House.
+A proposal to amend the constitution can be made by a Senate member, and ratified by the MoonDAO Proposal Process, with a threshold higher than 80% of the Senate majority and 80% of Member House majority. With a quorum of 80% in the Senate, and ten day voting period in the Member House.
+
+### 5.1 Coming into forace and transition period
+
+Amendments of the Constitution will go into effect immediately after they are approved by the MoonDAO community by Amendment of the Constitution, as outlined in Section 5. There will be a three month Transition Period after the amendment is approved during which MoonDAO Members have the right to opt-out of the community by selling their governance tokens or if they are not able to sell their governance tokens they may notify the DAO in writing to info@moondao.com with their wallet address and indicating they want to opt-out. Three months after the amendment is passed, the change is binding and existing members are deemed to consent.
