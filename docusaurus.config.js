@@ -18,10 +18,26 @@ const config = {
   trailingSlash: true,
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh'],
+    defaultLocale: "en",
+    locales: ["en", "zh"],
   },
-
+  plugins: [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          {
+            to: "/docs/quickstart",
+            from: "/docs/join-moondao",
+          },
+          {
+            to: "/docs/contribute",
+            from: "/docs/guild-guidelines",
+          },
+        ],
+      },
+    ],
+  ],
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -50,12 +66,12 @@ const config = {
         logo: {
           alt: "MoonDAO Logo",
           src: "img/Original.svg",
-          href: "https://www.moondao.com/"
+          href: "https://www.moondao.com/",
         },
         items: [
           {
-            type: 'localeDropdown',
-            position: 'left',
+            type: "localeDropdown",
+            position: "left",
           },
           {
             href: "https://www.moondao.com/",
