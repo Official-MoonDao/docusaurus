@@ -27,12 +27,12 @@ const config = {
       {
         redirects: [
           {
-            to: "/docs/quickstart",
-            from: "/docs/join-moondao",
+            to: "/quickstart",
+            from: "/join-moondao",
           },
           {
-            to: "/docs/contribute",
-            from: "/docs/guild-guidelines",
+            to: "/contribute",
+            from: "/guild-guidelines",
           },
         ],
       },
