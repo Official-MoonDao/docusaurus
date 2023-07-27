@@ -39,7 +39,7 @@ This was our first big statement: to make it accessible to anyone in the world.
 MoonDAO purchased two tickets from Blue Origin and decided that it would select each astronaut using a different method:
 
 1. For the first ticket, we did a popular vote with $MOONEY to vote between several candidates. The winner was Dude Perfect! They ran their own internal contest by building model rockets, and Coby Cotton was the winner. He was sent into Space on August 4th, 2022.
-2. For the second ticket, we released a **Ticket To Space NFT Collection** for free. Over 8000 NFTs were minted, and we ran an on-chain chainlink VRF function to select the winner. The winner was Yan Kejun, Yan is a father of three from mainland China working in e-commerce and will be flying on a future Blue Origin New Shepard flight.
+2. For the second ticket, we released a **Ticket To Space NFT Collection** for free. Over 8000 NFTs were minted, and we ran an on-chain chainlink VRF function to select the winner, however, after a year-long struggle with the Americain government regarding his visa, his application was ultimately denied. MoonDAO is currently in the process of deliberation regarding the next astronaut we choose to send on a future Blue Origin New Shepard flight.
 
 So far in history, space exploration has been gated to the rest of the world — accessible to only the privileged. MoonDAO changes this for the first time in history.
 
@@ -51,7 +51,7 @@ We don’t want to just take a ride on someone else’s rockets, we’d like to 
 
 The exploration of space should unify the world, not pit us against each other like the last space race. After all, aren't we all just curious earthlings that want to explore the unknown? Now, DAOs represent a technology that can unify earthlings and decentralize space exploration.
 
-MoonDAO will provide funding to public goods related to space research and exploration. Anyone in our community can come together and request funding for a project that furthers our mission. Some currently proposed incubated projects include: A MoonDAO community-built satellite, a decentralized bounty force for aerospace companies, a MoonDAO metaverse, insert your own idea here... 
+MoonDAO will provide funding to public goods related to space research and exploration. Anyone in our community can come together and request funding for a project that furthers our mission. 
 
 Over time, we aim to build a coalition of engineers, story tellers, legal experts, community-builders, designers, and everyday people that can organize towards creating an optimistic future where the benefits of space help to protect Mother Earth and people from all over the world regardless of their ethnicity, race, where they were born, how much money they have, or who they support politically. MoonDAO ultimately aims to shift us towards an abundance mentality.
 
