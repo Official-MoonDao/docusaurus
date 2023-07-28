@@ -20,12 +20,12 @@ Up to you. The longer the stake the more voting power you have.
 
 ### What do I get in exchange for staking MOONEY?
 
-Staking gives you governance inside of the community. [Our treasury](https://dashboard.moondao.com/#/treasury) is co-governed by all the stakers. All our financial decisions are approved by them. You can vote on proposals [here](http://vote.moondao.com). Those that have 250,000 vMOONEY (vMOONEY = voting MOONEY) can [submit proposals](https://discord.com/channels/914720248140279868/1034923662442254356) directly to the community, otherwise you’ll need a co-signer with 250k vMOONEY.
+Staking gives you governance inside of the community. [Our treasury](https://dashboard.moondao.com/#/treasury) is co-governed by all the stakers. All our financial decisions are approved by them. You can vote on proposals [here](http://vote.moondao.com). Those that have 250,000+ voting power can [submit proposals](https://discord.com/channels/914720248140279868/1034923662442254356) directly to the community, otherwise you’ll need a co-signer with 250,000+ voting power.
 
 
 ### How is my voting power calculated?
 
-We take the square root of your vMOONEY balance. This is known as quadratic voting. To prevent people from making multiple accounts we use sybil resistance with [Gitcoin Passports](https://passport.gitcoin.co/). To vote, make sure your wallet has a valid Gitcoin passport (note: Passports resets every 3 months so make sure you re-do your stamps each quarter). We ask that you have a Google Account, Twitter account, Discord Account, and an ETH wallet with at least 1 txn that has existed for over 30 days.
+We take the square root of your staked balance. This is known as quadratic voting. To prevent people from making multiple accounts we use sybil resistance with [Gitcoin Passports](https://passport.gitcoin.co/). To vote, make sure your wallet has a valid Gitcoin passport (note: Passports resets every 3 months so make sure you re-do your stamps each quarter). We ask that you have a Google Account, Twitter account, Discord Account, and an ETH wallet with at least 1 txn that has existed for over 30 days.
 
 ### What are the mission and values of the community?
 
@@ -40,15 +40,6 @@ All proposals from the community take the form of projects to implement the prop
 ### Where can I find the proposal template?
 
 Find the proposal template at the bottom of the [Projects system](https://docs.moondao.com/project-guidelines/). You can also find important information there about the rules and structure of projects, if you have never worked on a project before you must join a project before leading your own project. This helps you understand our system, and also helps us get an understanding of your work. We don’t want to get married to someone after one week of knowing each other 🙂
-
-### How do I join a guild?
-
-Start the process by submitting an onboarding form [here](https://discord.com/channels/914720248140279868/1108226019359477860/1108811090747461803). We’ll ask that you provide evidence of your ability in the skill of the guild you’re applying for.
-
-
-### What do I get for joining a guild?
-
-Guilds are there as a quality filter. We want to review people’s backgrounds before they join projects. You’ll need to be formally part of a guild to join a project. As part of a guild you get to network with other members and are allowed to join projects.
 
 ### How do I join a project?
 
@@ -79,7 +70,7 @@ The team has not pre-minted any tokens. The community determines the appropriate
 
 ### Why is there a 50% reserve on the token?
 
-The 50% reserve will be goverened by the $MOONEY holders, and can be used to pay contributors for their work on MoonDAO going forward, or could be even be burned if that is the wish of the community. We're not going to dump that reserve on secondary markets and dilute anyone without the consent of the $MOONEY holders. We belieive that the holders of the $MOONEY will likely only do things that doesn't hurt their interest, and that this is offers more protection to $MOONEY holders than letting the DAO potentially deflate the holders by minting more $MOONEY with no supply cap. Rather, we wanted to set a supply limit and leave the DAO with some portion to distribute for work done for the DAO.
+The 50% reserve will be goverened by the $MOONEY holders, and can be used to pay contributors for their work on MoonDAO going forward, or could be even be burned if that is the wish of the community. We're not going to dump that reserve on secondary markets and dilute anyone without the consent of the voting members. We belieive that voters will likely only do things that do not hurt their interests, and that this is offers more protection to $MOONEY holders as potential voters than letting the DAO potentially deflate their holdings by minting more $MOONEY with no supply cap. Rather, we wanted to set a supply limit and leave the DAO with some portion to distribute for work done for the DAO.
 
 ### How will governance work?
 
