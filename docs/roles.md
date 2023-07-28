@@ -25,9 +25,8 @@ sidebar_position: 7
 
 ## Contributor Roles
 - **@Moonsettler:** Currently working within a MoonDAO project.
-- **@Rocketeer:** Steward / leader of a MoonDAO project.
-- **@Astronaut:** Steward / leader of MoonDAO.
-- **@Guild Steward:** Steward / leader of a MoonDAO Guild.
+- **@Rocketeer:** Leader of a MoonDAO project.
+- **@Astronaut:** Leader of MoonDAO.
 - **@TreasurySigner:** Signer on MoonDAO’s Treasury.
 - **@Voyager:** Former Moonsettler, Rocketeer, Astronaut, Guild Steward, or Treasury Singer.
 - **@Earthling:** A verified member of our Discord.
