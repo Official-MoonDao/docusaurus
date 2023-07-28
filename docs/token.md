@@ -18,9 +18,9 @@ sidebar_label: Governance Tokens
 sidebar_position: 5
 ---
 
-## **There is no expectation of profit with the MOONEY or vMOONEY token.**
+## **There is no expectation of profit with the MOONEY token.**
 
-**MOONEY and vMOONEY are governance tokens, they do not represent fractionalized ownership. Governance includes the ability to guide the DAO’s mission, values, and operations of MoonDAO, as well as the allocation of resources to projects that the DAO supports. Governance tokens have no expectation of profit. Any contributions to MoonDAO are not tax deductible at this point in time.**
+**MOONEY is a governance token for the purpose of claiming voting power. It does not represent fractionalized ownership. Governance includes the ability to guide the DAO’s mission, values, and operations of MoonDAO, as well as the allocation of resources to projects that the DAO supports. Governance tokens have no expectation of profit. Any contributions to MoonDAO are not tax deductible at this point in time.**
 
 When you make a contribution to MoonDAO, or otherwise purchase or acquire any MOONEY tokens, whether directly from the Community, via an exchange, or otherwise, you represent, warrant and agree as follows:
 
@@ -39,7 +39,7 @@ None of our messages constitute investment advice, please do your own research. 
 The $MOONEY token launched on **Friday, December 17, 2021** on Juicebox. The funding period lasted for one lunar cycle and ended on **Sunday, January 16, 2022 at 3:18 PM EST**. 
 
 There will only ever be 2.6 billion tokens. We will never mint more $MOONEY tokens.
-MOONEY tokens are the only tokens that can be staked for our governance token vMOONEY.
+MOONEY tokens are the only tokens that can be staked for voting power.
 
 Approximately 50% of the MOONEY tokens are in the MoonDAO treasury. These tokens will be released on an infinite geometric series to incentivize members to work on MoonDAO Projects.
 
@@ -61,14 +61,14 @@ DAO members will vote on the proportion of the release of $MOONEY that is sent t
 
 This incentive structure began on Q4 2022. The $MOONEY assigned to each member will vest over a one year period, conditional on their continued engagement on a MoonDAO project.
 
-The rest of the $MOONEY in the treasury is controlled by the $vMOONEY holders. MoonDAO will never release $MOONEY without the consent of the holders.
+The rest of the $MOONEY in the treasury is controlled by the voting members. MoonDAO will never release $MOONEY without the consent of the holders.
 
 
-## vMOONEY Characteristics
+## Voting Power Characteristics
 
-vMOONEY (voting MOONEY) tokens are used to vote on MoonDAO proposals.
+Voting power is a measure of impact a member has on collective decisioning.
 
-To receive vMOONEY you must [stake your MOONEY tokens here](https://app.moondao.com). You will receive $vMOONEY tokens linearly proportional to the amount of time that you stake.
+To receive voting power you must [stake your MOONEY tokens here](https://app.moondao.com). You will receive voting power linearly proportional to the amount of time and amount of MOONEY that you stake.
 
 Watch the [Stake to Vote Guide](https://www.youtube.com/watch?v=suKBRdo2T6I) to learn how to stake your MOONEY.
 
