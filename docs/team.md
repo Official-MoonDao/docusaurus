@@ -32,3 +32,12 @@ Hey I'm Pablo, I used to work at BigTech but dropped out after seeing where the 
 
 **Twitter:** [@LarrotizPablo](https://twitter.com/LarrotizPablo)
 **Discord:** pmoncada#0216
+
+### Philip Linden
+
+**Rocketeer**
+
+Phil is a spacecraft engineer, writer, and all around space nerd. His core values are: Do Good, Be Collaborative, Dream Big, Strive for Openness, and Take Pride in Every Task. Phil's professional experience includes R&D engineering for SpaceX (Mechanical/Reusability Engineering for Dragon Capsule), R&D engineering for Lockheed Martin Space (Electro-Optical engineer), Mission Operations for Planet Labs (Space Systems Engineer), and research for Open Lunar Foundation (Fellow).
+
+**BlueSky:** [philiplinden.bsky.social](https://bsky.app/profile/philiplinden.bsky.social)
+**Discord:** philiplinden
