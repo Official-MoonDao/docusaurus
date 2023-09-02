@@ -47,21 +47,6 @@ If you have questions relating to the above rights, you can contact us at: info
 
 If you are not satisfied with how we have responded to any request that you submit to us regarding the above rights, you may be able to raise your complaint with the Data Protection Authority in your jurisdiction. You can find your national Data Protection Authority [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
-If you are located in the United Kingdom or the EU, you may contact Achieved Compliance Advocacy, our appointed representative in the UK and the EU, at the following addresses:
-
-EU
-
-By email: TBD
-
-By mail: TBD
-
-UK
-
-By TBD
-
-By mail: TBD
-
-Please be advised that our EU representative is TBD, who can be contacted at TBD.
 
 ### **Legal Basis**
 
