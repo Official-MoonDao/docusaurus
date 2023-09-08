@@ -46,7 +46,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/Official-MoonDao/documentation",
+          // editUrl: "https://github.com/Official-MoonDao/documentation",
           routeBasePath: "/",
         },
         blog: false,
